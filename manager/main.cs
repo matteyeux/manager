@@ -10,7 +10,8 @@ using cpumanager;
 using hardwaremanager;
 using networkmanager;
 using systemmanager;
-/* end local stuff */
+using xmlmanager; 
+    /* end local stuff */
 namespace manager
 {
     class Class1
@@ -23,6 +24,7 @@ namespace manager
             networkinfo netfuncts = new networkinfo();
             systeminfo sys = new systeminfo();
             cpu cpufuncts = new cpu();
+            xmlparser xmlstuff = new xmlparser();
 
             //instance.GetHDDSerialNumber("");
             //test comment
