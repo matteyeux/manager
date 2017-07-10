@@ -17,14 +17,15 @@ namespace manager
     {
         [STAThread]
         public static int Main(string[] args)
-        {
+        {   
+
             hardwareinfo instance = new hardwareinfo();
             networkinfo netfuncts = new networkinfo();
             systeminfo sys = new systeminfo();
             cpu cpufuncts = new cpu();
 
             //instance.GetHDDSerialNumber("");
-
+            //test comment
             //instance.voltage_info();
             //Console.ReadLine();
             /*Auto check disks */
