@@ -179,13 +179,10 @@ namespace hardwaremanager
             {
                 case 20:
                     return "DDR";
-                    break;
                 case 21:
                     return "DDR-2";
-                    break;
                 case 17:
                     return "SDRAM";
-                    break; 
                 default:
                     if (type == 0 || type > 22)
                         return "DDR-3";
