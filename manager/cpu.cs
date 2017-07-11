@@ -64,7 +64,7 @@ namespace cpumanager
                     SensorAdded(sensor);
         }
 
-        public void more_cpu_shit()
+        public void more_cpu_info()
         {
             /*
             Exepected hardware output
