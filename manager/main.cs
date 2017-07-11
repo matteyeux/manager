@@ -11,7 +11,7 @@ using hardwaremanager;
 using networkmanager;
 using systemmanager;
 using xmlmanager; 
-    /* end local stuff */
+/* end local stuff */
 namespace manager
 {
     class Class1
@@ -80,7 +80,7 @@ namespace manager
                    Console.Write("\n");
                    Debug.WriteLine(i);
                 }*/
-            Console.ReadLine();
+            
             /* Network stuff */
             //broken ATM
 
@@ -89,13 +89,14 @@ namespace manager
 
 
             /* CPU stuff */
-            //cpufuncts.GetCPUId();
+            cpufuncts.GetCPUId();
             //Console.WriteLine("CPU Clock speed : " + cpufuncts.GetCPUCurrentClockSpeed());
             //Console.ReadLine();
-            //cpufuncts.more_cpu_shit();
+            //make sure to run is as admin or it won't work
+            cpufuncts.more_cpu_info();
+            Console.ReadLine();
             return 0;
         }
     }
-
 }
 
