@@ -20,25 +20,7 @@ namespace xmlmanager
         //    getallsoft();
         //    Console.ReadLine();
         //}
-        static void getallsoft()
-        {
-            string registry_key = @"SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall";
-            using (Microsoft.Win32.RegistryKey key = Registry.LocalMachine.OpenSubKey(registry_key))
-            {
-                foreach (string subkey_name in key.GetSubKeyNames())
-                {
-                    using (RegistryKey subkey = key.OpenSubKey(subkey_name))
-                    {
-                        Console.Write(subkey.GetValue("DisplayName") + "\t");
 
-                        Console.Write(subkey.GetValue("DisplayVersion") + "\n");
-
-
-                    }
-                }
-            }
-        }
-        
         static int check4file(string datfile)
         {
             if (File.Exists(datfile))
@@ -52,7 +34,8 @@ namespace xmlmanager
 
         static void xml2txt(string xmlfile)
         {
-            if (check4file(xmlfile) != 0) { 
+            if (check4file(xmlfile) != 0)
+            {
                 Console.WriteLine("[ERROR] {0} : file not found", xmlfile);
                 Debug.WriteLine(check4file(xmlfile));
                 return;
@@ -70,32 +53,67 @@ namespace xmlmanager
             }
             Console.ReadLine();
         }
-        static void txt2xml(string txtfile)
+        static void txt2xml(string txtfile, string tool, string version)
         {
             XmlWriter xmlWriter = XmlWriter.Create(txtfile);
             string[] plp = new string[] { "matteyeux", "Felicien", "Thomas", "Thibaut", "Theo", "Ghywane" };
             // I keep this code as a sample
             //System.Collections.Generic.List<string> age = new System.Collections.Generic.List<string> { "19", "21", "20", "20", "19", "23"};
             //System.Collections.Generic.List<int> age = new System.Collections.Generic.List<int> { 19, 21, 20, 20, 19, 23 };
-            string[] age = new string []{ "19", "21", "20", "20", "19", "23" };
+            string[] age = new string[] { "19", "21", "20", "20", "19", "23" };
 
             xmlWriter.WriteStartDocument();
-            xmlWriter.WriteStartElement("users");
-            for (int i = 0; i < plp.Length; i++)
-            {   
-                xmlWriter.WriteStartElement("user");
+            xmlWriter.WriteStartElement("softs");
 
-                Console.WriteLine("Age : {0}", age[i]);
-                xmlWriter.WriteAttributeString("age", age[i]);
+            xmlWriter.WriteStartElement("soft");
+            xmlWriter.WriteAttributeString("version", version);
+            xmlWriter.WriteString(tool);
 
-                Console.WriteLine("plp : {0}", plp[i]);
-                xmlWriter.WriteString(plp[i]);
-
-                xmlWriter.WriteEndElement();
-            }
+            xmlWriter.WriteEndElement();
             xmlWriter.WriteEndDocument();
             xmlWriter.Close();
             Console.ReadLine();
+        }
+
+        static void getallsoft()
+        {
+            string registry_key = @"SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall";
+            using (Microsoft.Win32.RegistryKey key = Registry.LocalMachine.OpenSubKey(registry_key))
+            {   /*XmlWriter xmlWriter = XmlWriter.Create("xml.xml");
+                xmlWriter.WriteStartDocument();
+                xmlWriter.WriteStartElement("softs");*/
+                // Compose a string that consists of three lines.
+
+                // Write the string to a file.
+                System.IO.StreamWriter file = new System.IO.StreamWriter("test.txt");
+
+                ;
+
+                foreach (string subkey_name in key.GetSubKeyNames())
+                {
+                    using (RegistryKey subkey = key.OpenSubKey(subkey_name))
+                    {
+                        string softname = (string)subkey.GetValue("DisplayName");
+                        string softvers = (string)subkey.GetValue("DisplayVersion");
+                        Console.Write(softname + "\t");
+                        Console.Write(softvers + "\n");
+                        file.WriteLine(softname);
+                        //if (softname == "DeepBurner")
+                        //{
+                        //    Console.WriteLine("what");
+                        //    Console.ReadLine();
+                        //}
+                        /*xmlWriter.WriteStartElement("soft");
+                        xmlWriter.WriteAttributeString("version", softvers);
+                        xmlWriter.WriteString(softname);
+                        xmlWriter.WriteEndElement();*/
+
+                    }
+                }
+                file.Close();
+                /*xmlWriter.WriteEndDocument();
+                xmlWriter.Close();*/
+            }
         }
     }
 }
