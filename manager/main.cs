@@ -11,6 +11,7 @@ using hardwaremanager;
 using networkmanager;
 using systemmanager;
 using xmlmanager; 
+using commonmanager;
 /* end local stuff */
 namespace manager
 {
@@ -18,8 +19,8 @@ namespace manager
     {
         [STAThread]
         public static int Main(string[] args)
-        {   
-
+        {
+            commonstuff common = new commonstuff();
             hardwareinfo instance = new hardwareinfo();
             networkinfo netfuncts = new networkinfo();
             systeminfo sys = new systeminfo();
