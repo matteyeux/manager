@@ -5,6 +5,7 @@ using System.Xml;
 using System.Collections;
 using System.Diagnostics;
 using Microsoft.Win32;
+//using commonmanager;
 
 namespace xmlmanager
 {
@@ -20,7 +21,7 @@ namespace xmlmanager
         //    getallsoft();
         //    Console.ReadLine();
         //}
-
+        //commonstuff common = new commonstuff();
         static int check4file(string datfile)
         {
             if (File.Exists(datfile))
@@ -31,7 +32,6 @@ namespace xmlmanager
             }
             //Console.WriteLine(File.Exists(datfile) ? "File exists." : "File does not exist.");
         }
-
         static void xml2txt(string xmlfile)
         {
             if (check4file(xmlfile) != 0)
