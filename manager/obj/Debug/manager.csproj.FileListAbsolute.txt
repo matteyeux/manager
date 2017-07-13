@@ -6,3 +6,9 @@ C:\Users\hautebasma\Documents\manager\manager\bin\Debug\OxyPlot.dll
 C:\Users\hautebasma\Documents\manager\manager\obj\Debug\manager.csprojResolveAssemblyReference.cache
 C:\Users\hautebasma\Documents\manager\manager\obj\Debug\manager.exe
 C:\Users\hautebasma\Documents\manager\manager\obj\Debug\manager.pdb
+C:\Users\hautebasma\Documents\GitHub\manager\manager\bin\Debug\manager.exe.config
+C:\Users\hautebasma\Documents\GitHub\manager\manager\obj\Debug\manager.exe
+C:\Users\hautebasma\Documents\GitHub\manager\manager\obj\Debug\manager.pdb
+C:\Users\hautebasma\Documents\GitHub\manager\manager\bin\Debug\manager.exe
+C:\Users\hautebasma\Documents\GitHub\manager\manager\bin\Debug\manager.pdb
+C:\Users\hautebasma\Documents\GitHub\manager\manager\obj\Debug\manager.csprojResolveAssemblyReference.cache

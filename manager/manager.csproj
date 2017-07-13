@@ -51,12 +51,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="common.cs" />
     <Compile Include="cpu.cs" />
     <Compile Include="hardware.cs" />
     <Compile Include="main.cs" />
     <Compile Include="network.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="system.cs" />
+    <Compile Include="xml.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -10,7 +10,7 @@ namespace commonmanager
     class commonstuff
     {
         public int check4file(string datfile)
-        {
+        {   
             if (File.Exists(datfile))
                 return 0;
             else
