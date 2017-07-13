@@ -1,2 +1,10 @@
-manager/bin
-manager/obj
+manager/bin/Debug/manager.exe
+manager/bin/Debug/manager.exe.config
+manager/bin/Debug/manager.pdb
+manager/bin/Debug/manager.vshost.exe
+manager/bin/Debug/manager.vshost.exe.config
+manager/obj/Debug/manager.csproj.FileListAbsolute.txt
+manager/obj/Debug/manager.csprojResolveAssemblyReference.cache
+manager/obj/Debug/manager.exe
+manager/obj/Debug/manager.pdb
+
