@@ -1,3 +1,2 @@
-*.exe*
-manager/bin/Debug/manager.*
-*.cache
+/Bin
+/Obj
