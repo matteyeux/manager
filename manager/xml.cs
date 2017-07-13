@@ -5,12 +5,13 @@ using System.Xml;
 using System.Collections;
 using System.Diagnostics;
 using Microsoft.Win32;
-//using commonmanager;
+using commonmanager;
 
 namespace xmlmanager
 {
     public class xmlparser
     {
+        commonstuff common = new commonstuff();
         //static void Main(string[] args)
         //{
         //    //xml2txt("hi.xml");
@@ -22,22 +23,22 @@ namespace xmlmanager
         //    Console.ReadLine();
         //}
         //commonstuff common = new commonstuff();
-        static int check4file(string datfile)
+        //static int check4file(string datfile)
+        //{
+        //    if (File.Exists(datfile))
+        //        return 0;
+        //    else
+        //    {
+        //        return -1;
+        //    }
+        //    //Console.WriteLine(File.Exists(datfile) ? "File exists." : "File does not exist.");
+        //}
+        public void xml2txt(string xmlfile)
         {
-            if (File.Exists(datfile))
-                return 0;
-            else
-            {
-                return -1;
-            }
-            //Console.WriteLine(File.Exists(datfile) ? "File exists." : "File does not exist.");
-        }
-        static void xml2txt(string xmlfile)
-        {
-            if (check4file(xmlfile) != 0)
+            if (common.check4file(xmlfile) != 0)
             {
                 Console.WriteLine("[ERROR] {0} : file not found", xmlfile);
-                Debug.WriteLine(check4file(xmlfile));
+                Debug.WriteLine(common.check4file(xmlfile));
                 return;
             }
             XmlReader xmlReader = XmlReader.Create(xmlfile);
@@ -53,7 +54,7 @@ namespace xmlmanager
             }
             Console.ReadLine();
         }
-        static void txt2xml(string txtfile, string tool, string version)
+        public void txt2xml(string txtfile, string tool, string version)
         {
             XmlWriter xmlWriter = XmlWriter.Create(txtfile);
             string[] plp = new string[] { "matteyeux", "Felicien", "Thomas", "Thibaut", "Theo", "Ghywane" };
@@ -75,7 +76,7 @@ namespace xmlmanager
             Console.ReadLine();
         }
 
-        static void getallsoft()
+        public void getallsoft()
         {
             string registry_key = @"SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall";
             using (Microsoft.Win32.RegistryKey key = Registry.LocalMachine.OpenSubKey(registry_key))
