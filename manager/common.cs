@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using System.Security.Principal;
 
 namespace commonmanager
 {
@@ -19,5 +20,11 @@ namespace commonmanager
             }
             //Console.WriteLine(File.Exists(datfile) ? "File exists." : "File does not exist.");
         }
+        public bool IsAdministrator()
+        {
+            return (new WindowsPrincipal(WindowsIdentity.GetCurrent()))
+                      .IsInRole(WindowsBuiltInRole.Administrator);
+        }
+
     }
 }
