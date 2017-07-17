@@ -10,8 +10,9 @@ using cpumanager;
 using hardwaremanager;
 using networkmanager;
 using systemmanager;
-using xmlmanager; 
+using xmlmanager;
 using commonmanager;
+using System.Security.Principal;
 /* end local stuff */
 namespace manager
 {
@@ -60,8 +61,14 @@ namespace manager
             cpufuncts.GetCPUId();
             //Console.WriteLine("CPU Clock speed : " + cpufuncts.GetCPUCurrentClockSpeed());
             //Console.ReadLine();
-            //make sure to run is as admin or it won't work
-            cpufuncts.more_cpu_info();
+            // added check instead of shitty comment
+            if (common.IsAdministrator() == true)
+            {
+                cpufuncts.more_cpu_info();
+            } else
+            {
+                Console.WriteLine("Can't get CPU, you're not admin");
+            }
             Console.ReadLine();
             return 0;
         }
