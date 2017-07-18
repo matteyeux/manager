@@ -29,7 +29,6 @@ namespace manager
             xmlparser xmlstuff = new xmlparser();
 
             //instance.GetHDDSerialNumber("");
-            //test comment
             instance.voltage_info();
             //Console.ReadLine();
             /*Auto check disks */
