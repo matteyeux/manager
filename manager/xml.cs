@@ -12,28 +12,7 @@ namespace xmlmanager
     public class xmlparser
     {
         commonstuff common = new commonstuff();
-        //static void Main(string[] args)
-        //{
-        //    //xml2txt("hi.xml");
-
-        //    //File.Delete("test.xml");
-        //    // txt2xml rewrites txtfile 
-        //    //txt2xml("hi.xml");
-        //    getallsoft();
-        //    Console.ReadLine();
-        //}
-        //commonstuff common = new commonstuff();
-        //static int check4file(string datfile)
-        //{
-        //    if (File.Exists(datfile))
-        //        return 0;
-        //    else
-        //    {
-        //        return -1;
-        //    }
-        //    //Console.WriteLine(File.Exists(datfile) ? "File exists." : "File does not exist.");
-        //}
-        public void xml2txt(string xmlfile)
+          public void xml2txt(string xmlfile)
         {
             if (common.check4file(xmlfile) != 0)
             {
@@ -99,7 +78,7 @@ namespace xmlmanager
                         Console.Write(softname + "\t");
                         Console.Write(softvers + "\n");
                         file.WriteLine(softname);
-                        //if (softname == "DeepBurner")
+                         //if (softname == "DeepBurner")
                         //{
                         //    Console.WriteLine("what");
                         //    Console.ReadLine();
