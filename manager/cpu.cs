@@ -2,12 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Management;
+using System.IO;
 using System.Text;
 using System.Threading.Tasks;
 using OpenHardwareMonitor.Collections;
 using OpenHardwareMonitor.Hardware;
 using OxyPlot;
 using OxyPlot.Series;
+using System.Threading;
 
 namespace cpumanager
 {
@@ -84,6 +86,8 @@ namespace cpumanager
             myComputer.CPUEnabled = true;
             myComputer.ToCode();
             myComputer.Open();
+            File.Delete("test.txt");
+            System.IO.StreamWriter file = new System.IO.StreamWriter("test.txt");
             foreach (var hardwareItem in myComputer.Hardware)
             {
                 hardwareItem.Update();
@@ -91,18 +95,35 @@ namespace cpumanager
 
                 Console.WriteLine(hardwareItem.GetReport());
                 var series = new LineSeries();
-
-                foreach (var sensor in hardwareItem.Sensors)
+                for (int i = 0; i < 1000; i++) {
+                    Console.WriteLine("{0}", i);
+                    file.WriteLine("{0}", i);
+                    foreach (var sensor in hardwareItem.Sensors)
                 {
                     if (sensor.SensorType == SensorType.Temperature)
                     {
-                        Console.WriteLine("{0} {1} = {2}", sensor.Name, sensor.SensorType, sensor.Value);
+                        
+                        
+                        /*for (int i = 0; i < 1000; i++)
+                        {*/
+                            Console.WriteLine("{0} {1} = {2}", sensor.Name, sensor.SensorType, sensor.Value);
+                            file.WriteLine("{0} {1} = {2}", sensor.Name, sensor.SensorType, sensor.Value);
+                          //  Thread.Sleep(10000);
+                        //}
 
                     }
+                    //for (int i = 0; i < 1000; i++)
+                    //{
+                    //    Console.WriteLine("{0} {1} = {2}", sensor.Name, sensor.SensorType, sensor.Value);
+                    //    file.WriteLine("{0} {1} = {2}", sensor.Name, sensor.SensorType, sensor.Value);
+                        //Thread.Sleep(5000);
+                    //}
                     //Console.ReadLine();
                 }
-                Console.ReadLine();
+                    Thread.Sleep(5000);
+                }
             }
+            file.Close();
         }
     }
 }

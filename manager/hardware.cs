@@ -154,7 +154,7 @@ namespace hardwaremanager
 
                 foreach (ManagementObject queryObj in searcher.Get())
                 {
-                    Console.WriteLine("BIOS: {0}", queryObj["Caption"]); //Just check if default BIOS 
+                    Console.WriteLine("BIOS: {0}", queryObj["Caption"]); //Just check if default BIOS / RIP backdoors
 
                 }
             }

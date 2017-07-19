@@ -12,7 +12,7 @@ namespace xmlmanager
     public class xmlparser
     {
         commonstuff common = new commonstuff();
-          public void xml2txt(string xmlfile)
+        public void xml2txt(string xmlfile)
         {
             if (common.check4file(xmlfile) != 0)
             {
