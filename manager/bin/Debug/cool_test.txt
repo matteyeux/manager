@@ -1,0 +1,6030 @@
+0
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+1
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+2
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+3
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+4
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+5
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+6
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+7
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+8
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+9
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+10
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+11
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+12
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+13
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+14
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+15
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+16
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+17
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+18
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+19
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+20
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+21
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+22
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+23
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+24
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+25
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+26
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+27
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+28
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+29
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+30
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+31
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+32
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+33
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+34
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+35
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+36
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+37
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+38
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+39
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+40
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+41
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+42
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+43
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+44
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+45
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+46
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+47
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+48
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+49
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+50
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+51
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+52
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+53
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+54
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+55
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+56
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+57
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+58
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+59
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+60
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+61
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+62
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+63
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+64
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+65
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+66
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+67
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+68
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+69
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+70
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+71
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+72
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+73
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+74
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+75
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+76
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+77
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+78
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+79
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+80
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+81
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+82
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+83
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+84
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+85
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+86
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+87
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+88
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+89
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+90
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+91
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+92
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+93
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+94
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+95
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+96
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+97
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+98
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+99
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+100
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+101
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+102
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+103
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+104
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+105
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+106
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+107
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+108
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+109
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+110
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+111
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+112
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+113
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+114
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+115
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+116
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+117
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+118
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+119
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+120
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+121
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+122
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+123
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+124
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+125
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+126
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+127
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+128
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+129
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+130
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+131
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+132
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+133
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+134
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+135
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+136
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+137
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+138
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+139
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+140
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+141
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+142
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+143
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+144
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+145
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+146
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+147
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+148
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+149
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+150
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+151
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+152
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+153
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+154
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+155
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+156
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+157
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+158
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+159
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+160
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+161
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+162
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+163
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+164
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+165
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+166
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+167
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+168
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+169
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+170
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+171
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+172
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+173
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+174
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+175
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+176
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+177
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+178
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+179
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+180
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+181
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+182
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+183
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+184
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+185
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+186
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+187
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+188
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+189
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+190
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+191
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+192
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+193
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+194
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+195
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+196
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+197
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+198
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+199
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+200
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+201
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+202
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+203
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+204
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+205
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+206
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+207
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+208
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+209
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+210
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+211
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+212
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+213
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+214
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+215
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+216
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+217
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+218
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+219
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+220
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+221
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+222
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+223
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+224
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+225
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+226
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+227
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+228
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+229
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+230
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+231
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+232
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+233
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+234
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+235
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+236
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+237
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+238
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+239
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+240
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+241
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+242
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+243
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+244
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+245
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+246
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+247
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+248
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+249
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+250
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+251
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+252
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+253
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+254
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+255
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+256
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+257
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+258
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+259
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+260
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+261
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+262
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+263
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+264
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+265
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+266
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+267
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+268
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+269
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+270
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+271
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+272
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+273
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+274
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+275
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+276
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+277
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+278
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+279
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+280
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+281
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+282
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+283
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+284
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+285
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+286
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+287
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+288
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+289
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+290
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+291
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+292
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+293
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+294
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+295
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+296
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+297
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+298
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+299
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+300
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+301
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+302
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+303
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+304
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+305
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+306
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+307
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+308
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+309
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+310
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+311
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+312
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+313
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+314
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+315
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+316
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+317
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+318
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+319
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+320
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+321
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+322
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+323
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+324
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+325
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+326
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+327
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+328
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+329
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+330
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+331
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+332
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+333
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+334
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+335
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+336
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+337
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+338
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+339
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+340
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+341
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+342
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+343
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+344
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+345
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+346
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+347
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+348
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+349
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+350
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+351
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+352
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+353
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+354
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+355
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+356
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+357
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+358
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+359
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+360
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+361
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+362
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+363
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+364
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+365
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+366
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+367
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+368
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+369
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+370
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+371
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+372
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+373
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+374
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+375
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+376
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+377
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+378
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+379
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+380
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+381
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+382
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+383
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+384
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+385
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+386
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+387
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+388
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+389
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+390
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+391
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+392
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+393
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+394
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+395
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+396
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+397
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+398
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+399
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+400
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+401
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+402
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+403
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+404
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+405
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+406
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+407
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+408
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+409
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+410
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+411
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+412
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+413
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+414
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+415
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+416
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+417
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+418
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+419
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+420
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+421
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+422
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+423
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+424
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+425
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+426
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+427
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+428
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+429
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+430
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+431
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+432
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+433
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+434
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+435
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+436
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+437
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+438
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+439
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+440
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+441
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+442
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+443
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+444
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+445
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+446
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+447
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+448
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+449
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+450
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+451
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+452
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+453
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+454
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+455
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+456
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+457
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+458
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+459
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+460
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+461
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+462
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+463
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+464
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+465
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+466
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+467
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+468
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+469
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+470
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+471
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+472
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+473
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+474
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+475
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+476
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+477
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+478
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+479
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+480
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+481
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+482
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+483
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+484
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+485
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+486
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+487
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+488
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+489
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+490
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+491
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+492
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+493
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+494
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+495
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+496
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+497
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+498
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+499
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+500
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+501
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+502
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+503
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+504
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+505
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+506
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+507
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+508
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+509
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+510
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+511
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+512
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+513
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+514
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+515
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+516
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+517
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+518
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+519
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+520
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+521
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+522
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+523
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+524
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+525
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+526
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+527
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+528
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+529
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+530
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+531
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+532
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+533
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+534
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+535
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+536
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+537
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+538
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+539
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+540
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+541
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+542
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+543
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+544
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+545
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+546
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+547
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+548
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+549
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+550
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+551
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+552
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+553
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+554
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+555
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+556
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+557
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+558
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+559
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+560
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+561
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+562
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+563
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+564
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+565
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+566
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+567
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+568
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+569
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+570
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+571
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+572
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+573
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+574
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+575
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+576
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+577
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+578
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+579
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+580
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+581
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+582
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+583
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+584
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+585
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+586
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+587
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+588
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+589
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+590
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+591
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+592
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+593
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+594
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+595
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+596
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+597
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+598
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+599
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+600
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+601
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+602
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+603
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+604
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+605
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+606
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+607
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+608
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+609
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+610
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+611
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+612
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+613
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+614
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+615
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+616
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+617
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+618
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+619
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+620
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+621
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+622
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+623
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+624
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+625
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+626
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+627
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+628
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+629
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+630
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+631
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+632
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+633
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+634
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+635
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+636
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+637
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+638
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+639
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+640
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+641
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+642
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+643
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+644
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+645
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+646
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+647
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+648
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+649
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+650
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+651
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+652
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+653
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+654
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+655
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+656
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+657
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+658
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+659
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+660
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+661
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+662
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+663
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+664
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+665
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+666
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+667
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+668
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+669
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+670
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+671
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+672
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+673
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+674
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+675
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+676
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+677
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+678
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+679
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+680
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+681
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+682
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+683
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+684
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+685
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+686
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+687
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+688
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+689
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+690
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+691
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+692
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+693
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+694
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+695
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+696
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+697
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+698
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+699
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+700
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+701
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+702
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+703
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+704
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+705
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+706
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+707
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+708
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+709
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+710
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+711
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+712
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+713
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+714
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+715
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+716
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+717
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+718
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+719
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+720
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+721
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+722
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+723
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+724
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+725
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+726
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+727
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+728
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+729
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+730
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+731
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+732
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+733
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+734
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+735
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+736
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+737
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+738
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+739
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+740
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+741
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+742
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+743
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+744
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+745
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+746
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+747
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+748
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+749
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+750
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+751
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+752
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+753
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+754
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+755
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+756
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+757
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+758
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+759
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+760
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+761
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+762
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+763
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+764
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+765
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+766
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+767
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+768
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+769
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+770
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+771
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+772
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+773
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+774
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+775
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+776
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+777
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+778
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+779
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+780
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+781
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+782
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+783
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+784
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+785
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+786
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+787
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+788
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+789
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+790
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+791
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+792
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+793
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+794
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+795
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+796
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+797
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+798
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+799
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+800
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+801
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+802
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+803
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+804
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+805
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+806
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+807
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+808
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+809
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+810
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+811
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+812
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+813
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+814
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+815
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+816
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+817
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+818
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+819
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+820
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+821
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+822
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+823
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+824
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+825
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+826
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+827
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+828
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+829
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+830
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+831
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+832
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+833
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+834
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+835
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+836
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+837
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+838
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+839
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+840
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+841
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+842
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+843
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+844
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+845
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+846
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+847
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+848
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+849
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+850
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+851
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+852
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+853
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+854
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+855
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+856
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+857
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+858
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+859
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+860
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+861
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+862
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+863
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+864
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+865
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+866
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+867
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+868
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+869
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+870
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+871
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+872
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+873
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+874
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+875
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+876
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+877
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+878
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+879
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+880
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+881
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+882
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+883
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+884
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+885
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+886
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+887
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+888
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+889
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+890
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+891
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+892
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+893
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+894
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+895
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+896
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+897
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+898
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+899
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+900
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+901
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+902
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+903
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+904
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+905
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+906
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+907
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+908
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+909
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+910
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+911
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+912
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+913
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+914
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+915
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+916
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+917
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+918
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+919
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+920
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+921
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+922
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+923
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+924
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+925
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+926
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+927
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+928
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+929
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+930
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+931
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+932
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+933
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+934
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+935
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+936
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+937
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+938
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+939
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+940
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+941
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+942
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+943
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+944
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+945
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+946
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+947
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+948
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+949
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+950
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+951
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+952
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+953
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+954
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+955
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+956
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+957
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+958
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+959
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+960
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+961
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+962
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+963
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+964
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+965
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+966
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+967
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+968
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+969
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+970
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+971
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+972
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+973
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+974
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+975
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+976
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+977
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+978
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+979
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+980
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+981
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+982
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+983
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+984
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+985
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+986
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+987
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+988
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+989
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+990
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+991
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+992
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+993
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+994
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+995
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+996
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+997
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+998
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+999
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+1000
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+1001
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+1002
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+1003
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Package Temperature = 56
+1004
+CPU Core #1 Temperature = 54
+CPU Core #2 Temperature = 55
+CPU Core #3 Temperature = 56
+CPU Core #4 Temperature = 51
+CPU Pack
