@@ -95,7 +95,7 @@ namespace cpumanager
 
                 Console.WriteLine(hardwareItem.GetReport());
                 var series = new LineSeries();
-                for (int i = 0; i < 1000; i++) {
+                for (int i = 0; i < 10000; i++) {
                     Console.WriteLine("{0}", i);
                     file.WriteLine("{0}", i);
                     foreach (var sensor in hardwareItem.Sensors)

@@ -68,7 +68,7 @@ namespace manager
                 Console.WriteLine("hi");
                 //for (int i = 0; i < 1000; i++)
                 //{
-                    cpufuncts.more_cpu_info();
+                   // cpufuncts.more_cpu_info();
                   //  Thread.Sleep(5000);
                 //}
             } else

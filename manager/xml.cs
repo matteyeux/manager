@@ -78,7 +78,8 @@ namespace xmlmanager
                         Console.Write(softname + "\t");
                         Console.Write(softvers + "\n");
                         file.WriteLine(softname);
-                         //if (softname == "DeepBurner")
+                        // Does not work yet  
+			//if (softname == "DeepBurner")
                         //{
                         //    Console.WriteLine("what");
                         //    Console.ReadLine();
