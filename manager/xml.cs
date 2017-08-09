@@ -36,7 +36,7 @@ namespace xmlmanager
         public void txt2xml(string txtfile, string tool, string version)
         {
             XmlWriter xmlWriter = XmlWriter.Create(txtfile);
-            string[] plp = new string[] { "matteyeux", "Felicien", "Thomas", "Thibaut", "Theo", "Ghywane" };
+            string[] plp = new string[] { "matteyeux", "eehp", "Thomas", "Thibaut", "Theo", "Ghywane" };
             // I keep this code as a sample
             //System.Collections.Generic.List<string> age = new System.Collections.Generic.List<string> { "19", "21", "20", "20", "19", "23"};
             //System.Collections.Generic.List<int> age = new System.Collections.Generic.List<int> { 19, 21, 20, 20, 19, 23 };
@@ -48,6 +48,7 @@ namespace xmlmanager
             xmlWriter.WriteStartElement("soft");
             xmlWriter.WriteAttributeString("version", version);
             xmlWriter.WriteString(tool);
+
 
             xmlWriter.WriteEndElement();
             xmlWriter.WriteEndDocument();

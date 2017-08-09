@@ -36,6 +36,7 @@ namespace manager
             string[] disks = new string[] { "C", "E" }; // only local HDD hardcoded is not the best way
             //string[] disks = new string[10];
             //int i = 0;
+            instance.fan_stuff();
             netfuncts.network_disks(); // marche pas
             instance.partition_number();
             instance.all_ram_info();
@@ -65,12 +66,7 @@ namespace manager
 
             if (common.IsAdministrator() == true)
             {
-                Console.WriteLine("hi");
-                //for (int i = 0; i < 1000; i++)
-                //{
-                   // cpufuncts.more_cpu_info();
-                  //  Thread.Sleep(5000);
-                //}
+                cpufuncts.more_cpu_info();
             } else
             {
                 Console.WriteLine("Can't get CPU, you're not admin");

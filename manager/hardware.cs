@@ -191,5 +191,24 @@ namespace hardwaremanager
             }
 
         }
+        public void fan_stuff()
+        {
+            try
+            {
+                ManagementObjectSearcher searcher = new ManagementObjectSearcher("root\\CIMV2","SELECT * FROM Win32_Fan");
+                foreach (ManagementObject queryObj in searcher.Get())
+                {
+                    Console.WriteLine("-----------------------------------");
+                    Console.WriteLine("Win32_Fan instance");
+                    Console.WriteLine("-----------------------------------");
+                    Console.WriteLine("Description: {0}", queryObj["Description"]);
+                    Console.WriteLine("Status: {0}", queryObj["Status"]);
+                }
+            }
+            catch (ManagementException e)
+            {
+                Console.WriteLine("An error occurred while querying for WMI data: " + e.Message);
+            }
+        }
     }
 }
