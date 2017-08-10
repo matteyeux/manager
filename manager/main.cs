@@ -11,7 +11,9 @@ using hardwaremanager;
 using networkmanager;
 using systemmanager;
 using xmlmanager;
+using diskmanager;
 using commonmanager;
+
 using System.Security.Principal;
 using System.Threading;
 /* end local stuff */
@@ -27,43 +29,61 @@ namespace manager
             networkinfo netfuncts = new networkinfo();
             systeminfo sys = new systeminfo();
             cpu cpufuncts = new cpu();
+            disksinfo disks = new disksinfo(); 
             xmlparser xmlstuff = new xmlparser();
 
-            //instance.GetHDDSerialNumber("");
-            instance.voltage_info();
-            //Console.ReadLine();
             /*Auto check disks */
-            string[] disks = new string[] { "C", "E" }; // only local HDD hardcoded is not the best way
+            string[] disklist = new string[] {
+            "A",  "B",  "C", "D",  "E",  "F",  "G",
+            "H",  "I", "J",  "K",  "L",  "M",  "N",
+            "O",  "P",  "Q",  "R",  "S", "T",  "U",
+            "V",  "W",  "X",  "Y",  "Z" }; // help to improve it
             //string[] disks = new string[10];
             //int i = 0;
+
+            Console.WriteLine("=== HARDWARE ===");
+            Console.WriteLine("RAM type : {0} ", instance.ram_Type());
             instance.fan_stuff();
-            netfuncts.network_disks(); // marche pas
             instance.partition_number();
             instance.all_ram_info();
-            Console.WriteLine("RAM type : {0} ", instance.ram_Type());
-            sys.sysname();
-            instance.bios_is_cool();
+            Console.Write("\n");
 
-            for (int i = 0; i < disks.Length; i++)
-            {
-                Console.WriteLine("Disk "+disks[i]);
-                Console.WriteLine("Serial Number : "+  instance.GetHDDSerialNumber(disks[i]));
-                Console.WriteLine("Free Space : " + instance.GetHDDFreeSpace(disks[i]) + " bits");
-                Console.WriteLine("HDD Size : " + instance.getHDDSize(disks[i])+ " bits");
-                Console.Write("\n");
-                Debug.WriteLine(i);
-            }
-            
             /* Network stuff */
-            //broken ATM
+            Console.WriteLine("=== NETWORK ===");
             Console.WriteLine("Ethernet MAC address : " + netfuncts.FindMACAddress());
+            Console.Write("\n");
 
-            /* CPU stuff */
+            Console.WriteLine("=== SYSTEM ===");
+            sys.osinfo();
+            sys.boot_conf();
+            sys.windows_info();
+            sys.bios_is_cool();
+            sys.windows_info();
+            Console.ReadLine();
+
+            Console.WriteLine("=== DISKS ===");
+            for (int i = 0; i < disklist.Length; i++)
+            {
+                if (disks.check_if_disk_exists(disklist[i]) == 0)
+                {
+                    Console.WriteLine("Disk {0} : ", disklist[i]);
+                    Console.WriteLine("Serial Number : " + disks.GetHDDSerialNumber(disklist[i]));
+                    Console.WriteLine("Free Space : " + disks.GetHDDFreeSpace(disklist[i]) + " bits");
+                    Console.WriteLine("HDD Size : " + disks.getHDDSize(disklist[i]) + " bits");
+                    Debug.WriteLine(i);
+                } else
+                {
+                    Debug.WriteLine("{0} not found", disklist[i]);  
+                }
+                
+            }
+            Console.ReadLine();
+            Console.Write("\n");
+            //netfuncts.network_disks(); // marche pas
+
+            Console.WriteLine("=== CPU ===");
             cpufuncts.GetCPUId();
-            //Console.WriteLine("CPU Clock speed : " + cpufuncts.GetCPUCurrentClockSpeed());
-            //Console.ReadLine();
-            // added check instead of shitty comment
-
+            Console.WriteLine("CPU Clock speed : " + cpufuncts.GetCPUCurrentClockSpeed());
             if (common.IsAdministrator() == true)
             {
                 cpufuncts.more_cpu_info();
