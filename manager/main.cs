@@ -13,7 +13,6 @@ using systemmanager;
 using xmlmanager;
 using diskmanager;
 using commonmanager;
-
 using System.Security.Principal;
 using System.Threading;
 /* end local stuff */
@@ -59,17 +58,19 @@ namespace manager
             sys.windows_info();
             sys.bios_is_cool();
             sys.windows_info();
-            Console.ReadLine();
 
             Console.WriteLine("=== DISKS ===");
             for (int i = 0; i < disklist.Length; i++)
             {
                 if (disks.check_if_disk_exists(disklist[i]) == 0)
                 {
+                    double hddsize = disks.getHDDSize(disklist[i]) / 1073741824;
+                    double freespace = disks.GetHDDFreeSpace(disklist[i]) / 1073741824;
+
                     Console.WriteLine("Disk {0} : ", disklist[i]);
                     Console.WriteLine("Serial Number : " + disks.GetHDDSerialNumber(disklist[i]));
-                    Console.WriteLine("Free Space : " + disks.GetHDDFreeSpace(disklist[i]) + " bits");
-                    Console.WriteLine("HDD Size : " + disks.getHDDSize(disklist[i]) + " bits");
+                    Console.WriteLine("HDD Size : {0} Go", Math.Round(hddsize));
+                    Console.WriteLine("Free Space : {0} Go\t {1}%", Math.Round(freespace), Math.Round(common.convert2percent(hddsize, freespace),2));
                     Debug.WriteLine(i);
                 } else
                 {
@@ -77,7 +78,6 @@ namespace manager
                 }
                 
             }
-            Console.ReadLine();
             Console.Write("\n");
             //netfuncts.network_disks(); // marche pas
 
