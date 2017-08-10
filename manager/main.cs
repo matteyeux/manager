@@ -41,6 +41,13 @@ namespace manager
             //int i = 0;
 
             Console.WriteLine("=== HARDWARE ===");
+            if (instance.check_for_xiring_device() == true)
+            {
+                Console.WriteLine("XIRING plugged");
+            } else
+            {
+                Console.WriteLine("XIRING not plugged");
+            }
             Console.WriteLine("RAM type : {0} ", instance.ram_Type());
             instance.fan_stuff();
             instance.partition_number();
