@@ -85,6 +85,7 @@ namespace manager
                 }
                 
             }
+            disks.is_drive_fixe();
             Console.Write("\n");
             //netfuncts.network_disks(); // marche pas
 
