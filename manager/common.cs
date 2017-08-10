@@ -25,6 +25,11 @@ namespace commonmanager
             return (new WindowsPrincipal(WindowsIdentity.GetCurrent()))
                       .IsInRole(WindowsBuiltInRole.Administrator);
         }
-
+        public double convert2percent(double max_size, double curr_size)
+        {
+            double result = curr_size / max_size;
+            double percent = result * 100;
+            return percent;
+        }
     }
 }
