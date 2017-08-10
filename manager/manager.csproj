@@ -53,6 +53,7 @@
   <ItemGroup>
     <Compile Include="common.cs" />
     <Compile Include="cpu.cs" />
+    <Compile Include="disks.cs" />
     <Compile Include="hardware.cs" />
     <Compile Include="main.cs" />
     <Compile Include="network.cs" />
