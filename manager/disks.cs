@@ -78,7 +78,7 @@ namespace diskmanager
             return result;
         }
 
-        public int is_drive_fixe()
+        public int storage_drives()
         {
             DriveInfo[] allDrives = DriveInfo.GetDrives();
 
