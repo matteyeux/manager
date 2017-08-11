@@ -6,11 +6,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Management;
 using System.IO;
+using commonmanager;
 
 namespace diskmanager
 {
     class disksinfo
     {
+        commonstuff common = new commonstuff();
         public int check_if_disk_exists(string currdrive)
         {
             string realdrive = currdrive + ":";
@@ -26,27 +28,6 @@ namespace diskmanager
             }
         }
 
-        /// <summary>
-        /// method to retrieve the selected HDD's serial number
-        /// </summary>
-        /// <param name="strDriveLetter">Drive letter to retrieve serial number for</param>
-        /// <returns>the HDD's serial number</returns>
-        public string GetHDDSerialNumber(string drive)
-        {
-            //check to see if the user provided a drive letter
-            //if not default it to "C"
-            if (drive == "" || drive == null)
-            {
-                drive = "C";
-            }
-            //create our ManagementObject, passing it the drive letter to the
-            //DevideID using WQL
-            ManagementObject disk = new ManagementObject("Win32_LogicalDisk.DeviceID=\"" + drive + ":\"");
-            //bind our management object
-            disk.Get();
-            //return the serial number
-            return disk["VolumeSerialNumber"].ToString();
-        }
         public int partition_number()
         {
             try
@@ -69,11 +50,11 @@ namespace diskmanager
         }
 
         /// <summary>
-        /// method to retrieve the HDD's freespace
+        /// method to retrieve the selected HDD's serial number
         /// </summary>
-        /// <param name="drive">Drive letter to get free space from (optional)</param>
-        /// <returns>The free space of the selected HDD</returns>
-        public double GetHDDFreeSpace(string drive)
+        /// <param name="strDriveLetter">Drive letter to retrieve serial number for</param>
+        /// <returns>the HDD's serial number</returns>
+        public string GetHDDSerialNumber(string drive)
         {
             //check to see if the user provided a drive letter
             //if not default it to "C"
@@ -83,27 +64,18 @@ namespace diskmanager
             }
             //create our ManagementObject, passing it the drive letter to the
             //DevideID using WQL
-            ManagementObject disk = new ManagementObject("Win32_LogicalDisk.DeviceID=\"" + drive + ":\"");
+            ManagementObject disk = new ManagementObject("Win32_LogicalDisk.DeviceID =\"" + drive + ":\"");
             //bind our management object
             disk.Get();
-            //return the free space amount
-            return Convert.ToDouble(disk["FreeSpace"]);
+            //return the serial number
+            return disk["VolumeSerialNumber"].ToString();
         }
-        public double getHDDSize(string drive)
+
+
+        static double byte2gb(double bytesentry)
         {
-            //check to see if the user provided a drive letter
-            //if not default it to "C"
-            if (drive == "" || drive == null)
-            {
-                drive = "C";
-            }
-            //create our ManagementObject, passing it the drive letter to the
-            //DevideID using WQL
-            ManagementObject disk = new ManagementObject("Win32_LogicalDisk.DeviceID=\"" + drive + ":\"");
-            //bind our management object
-            disk.Get();
-            //return the HDD's initial size
-            return Convert.ToDouble(disk["Size"]);
+            double result = bytesentry / 1073741824;
+            return result;
         }
 
         public int is_drive_fixe()
@@ -112,8 +84,17 @@ namespace diskmanager
 
             foreach (DriveInfo d in allDrives)
             {
-                Console.WriteLine("Drive {0}", d.Name);
-                Console.WriteLine("Drive type: {0}", d.DriveType);
+                Console.WriteLine("\nDrive:         {0}", d.Name);
+                Console.WriteLine("Drive type:    {0}", d.DriveType);
+                //Console.WriteLine("Serial Number {0}", GetHDDSerialNumber(d.Name));
+                if (d.IsReady == true)
+                {
+                    Console.WriteLine("Volume label:  {0}", d.VolumeLabel);
+                    Console.WriteLine("File system:   {0}", d.DriveFormat);
+                    Console.WriteLine("HDD Size:      {0} Go", Math.Round(byte2gb(d.TotalSize), 2));
+                    Console.WriteLine("Free Space:    {0} Go  \t{1}%", Math.Round(byte2gb(d.TotalFreeSpace) ,2), Math.Round(common.convert2percent(d.TotalSize, d.TotalFreeSpace), 2));
+                    
+                }
             }
             return 0;
         }
