@@ -31,15 +31,6 @@ namespace manager
             disksinfo disks = new disksinfo(); 
             xmlparser xmlstuff = new xmlparser();
 
-            /*Auto check disks */
-            string[] disklist = new string[] {
-            "A",  "B",  "C", "D",  "E",  "F",  "G",
-            "H",  "I", "J",  "K",  "L",  "M",  "N",
-            "O",  "P",  "Q",  "R",  "S", "T",  "U",
-            "V",  "W",  "X",  "Y",  "Z" }; // help to improve it
-            //string[] disks = new string[10];
-            //int i = 0;
-
             Console.WriteLine("=== HARDWARE ===");
             if (instance.check_for_xiring_device() == true)
             {
@@ -67,25 +58,8 @@ namespace manager
             sys.windows_info();
 
             Console.WriteLine("=== DISKS ===");
-            for (int i = 0; i < disklist.Length; i++)
-            {
-                if (disks.check_if_disk_exists(disklist[i]) == 0)
-                {
-                    double hddsize = disks.getHDDSize(disklist[i]) / 1073741824;
-                    double freespace = disks.GetHDDFreeSpace(disklist[i]) / 1073741824;
+            disks.storage_drives();
 
-                    Console.WriteLine("Disk {0} : ", disklist[i]);
-                    Console.WriteLine("Serial Number : " + disks.GetHDDSerialNumber(disklist[i]));
-                    Console.WriteLine("HDD Size : {0} Go", Math.Round(hddsize));
-                    Console.WriteLine("Free Space : {0} Go\t {1}%", Math.Round(freespace), Math.Round(common.convert2percent(hddsize, freespace),2));
-                    Debug.WriteLine(i);
-                } else
-                {
-                    Debug.WriteLine("{0} not found", disklist[i]);  
-                }
-                
-            }
-            disks.is_drive_fixe();
             Console.Write("\n");
             //netfuncts.network_disks(); // marche pas
 
