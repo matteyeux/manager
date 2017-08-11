@@ -16,7 +16,7 @@ namespace diskmanager
         public int check_if_disk_exists(string currdrive)
         {
             string realdrive = currdrive + ":";
-            string drive = Path.GetPathRoot(realdrive);   // e.g. K:\
+            string drive = Path.GetPathRoot(realdrive);
 
             if (Directory.Exists(drive))
             {
@@ -54,19 +54,18 @@ namespace diskmanager
         /// </summary>
         /// <param name="strDriveLetter">Drive letter to retrieve serial number for</param>
         /// <returns>the HDD's serial number</returns>
-        public string GetHDDSerialNumber(string drive)
+        static string GetHDDSerialNumber(string drive)
         {
-            //check to see if the user provided a drive letter
-            //if not default it to "C"
-            if (drive == "" || drive == null)
-            {
-                drive = "C";
-            }
             //create our ManagementObject, passing it the drive letter to the
             //DevideID using WQL
-            ManagementObject disk = new ManagementObject("Win32_LogicalDisk.DeviceID =\"" + drive + ":\"");
+            ManagementObject disk = new ManagementObject("Win32_LogicalDisk.DeviceID=\"" + drive[0] + ":\"");
             //bind our management object
             disk.Get();
+            // if CDRom or something else it means it's null
+            if (disk["VolumeSerialNumber"] == null)
+            {
+                return null;
+            }
             //return the serial number
             return disk["VolumeSerialNumber"].ToString();
         }
@@ -86,14 +85,16 @@ namespace diskmanager
             {
                 Console.WriteLine("\nDrive:         {0}", d.Name);
                 Console.WriteLine("Drive type:    {0}", d.DriveType);
-                //Console.WriteLine("Serial Number {0}", GetHDDSerialNumber(d.Name));
+                if (GetHDDSerialNumber(d.Name) != null)
+                {
+                    Console.WriteLine("Serial Number: {0}", GetHDDSerialNumber(d.Name));
+                }
                 if (d.IsReady == true)
                 {
                     Console.WriteLine("Volume label:  {0}", d.VolumeLabel);
                     Console.WriteLine("File system:   {0}", d.DriveFormat);
                     Console.WriteLine("HDD Size:      {0} Go", Math.Round(byte2gb(d.TotalSize), 2));
                     Console.WriteLine("Free Space:    {0} Go  \t{1}%", Math.Round(byte2gb(d.TotalFreeSpace) ,2), Math.Round(common.convert2percent(d.TotalSize, d.TotalFreeSpace), 2));
-                    
                 }
             }
             return 0;
