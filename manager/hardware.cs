@@ -105,13 +105,15 @@ namespace hardwaremanager
             try
             {
                 ManagementObjectSearcher searcher = new ManagementObjectSearcher("root\\CIMV2","SELECT * FROM Win32_Fan");
+                int i = 0;
                 foreach (ManagementObject queryObj in searcher.Get())
                 {
                     Console.WriteLine("-----------------------------------");
-                    Console.WriteLine("Win32_Fan instance");
+                    Console.WriteLine("Win32_Fan instance {0}", i);
                     Console.WriteLine("-----------------------------------");
                     Console.WriteLine("Description: {0}", queryObj["Description"]);
                     Console.WriteLine("Status: {0}", queryObj["Status"]);
+                    i++;
                 }
             }
             catch (ManagementException e)
