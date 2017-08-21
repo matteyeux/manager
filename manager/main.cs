@@ -5,6 +5,9 @@ using System.Text;
 using System.Linq;
 using System.Diagnostics;
 using System.IO;
+using System.Security.Principal;
+using System.Threading;
+using System.Xml;
 /* local stuff */
 using cpumanager;
 using hardwaremanager;
@@ -13,9 +16,8 @@ using systemmanager;
 using xmlmanager;
 using diskmanager;
 using commonmanager;
-using System.Security.Principal;
-using System.Threading;
 /* end local stuff */
+
 namespace manager
 {
     class Class1
@@ -30,12 +32,14 @@ namespace manager
             cpu cpufuncts = new cpu();
             disksinfo disks = new disksinfo(); 
             xmlparser xmlstuff = new xmlparser();
+            //xmlstuff.getallsoft("xml.xml");
 
             Console.WriteLine("=== HARDWARE ===");
             if (instance.check_for_xiring_device() == true)
             {
                 Console.WriteLine("XIRING plugged");
-            } else
+            }
+            else
             {
                 Console.WriteLine("XIRING not plugged");
             }
@@ -45,7 +49,6 @@ namespace manager
             instance.all_ram_info();
             Console.Write("\n");
 
-            /* Network stuff */
             Console.WriteLine("=== NETWORK ===");
             Console.WriteLine("Ethernet MAC address : " + netfuncts.FindMACAddress());
             Console.Write("\n");
@@ -61,7 +64,6 @@ namespace manager
             disks.storage_drives();
 
             Console.Write("\n");
-            //netfuncts.network_disks(); // marche pas
 
             Console.WriteLine("=== CPU ===");
             cpufuncts.GetCPUId();
@@ -69,7 +71,8 @@ namespace manager
             if (common.IsAdministrator() == true)
             {
                 cpufuncts.more_cpu_info();
-            } else
+            }
+            else
             {
                 Console.WriteLine("Can't get CPU, you're not admin");
             }
