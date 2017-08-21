@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Management;
+using System.Xml;
+
 
 namespace systemmanager
 {
@@ -15,7 +17,45 @@ namespace systemmanager
             float secuptime = uptime / 1000; // millisec -> sec
             float houruptime = secuptime / 3600; // sec -> hours
             int dayuptime = (int) houruptime / 24; // hours -> days
-            
+            //XmlWriter xmlWriter = XmlWriter.Create("xml.xml");
+            //xmlWriter.WriteStartDocument();
+            //xmlWriter.WriteStartElement("softs");
+
+            //xmlWriter.WriteStartElement("systeminfo");
+            //xmlWriter.WriteAttributeString("sample", "sample");
+            //xmlWriter.WriteString("test");
+            //xmlWriter.WriteEndElement();
+
+            //xmlWriter.WriteStartElement("soft");
+            //xmlWriter.WriteAttributeString("version", "version");
+            //xmlWriter.WriteString("test");
+            //xmlWriter.WriteEndElement();
+
+            //xmlWriter.WriteStartElement("soft");
+            //xmlWriter.WriteAttributeString("what", "osversion");
+            //xmlWriter.WriteString(Environment.OSVersion.ToString());
+            //xmlWriter.WriteEndElement();
+
+            //xmlWriter.WriteStartElement("soft");
+            //xmlWriter.WriteAttributeString("what", "username");
+            //xmlWriter.WriteString(Environment.UserName.ToString());
+            //xmlWriter.WriteEndElement();
+
+            //xmlWriter.WriteStartElement("soft");
+            //xmlWriter.WriteAttributeString("what", "machine-name");
+            //xmlWriter.WriteString(Environment.MachineName.ToString());
+            //xmlWriter.WriteEndElement();
+
+            //xmlWriter.WriteStartElement("soft");
+            //xmlWriter.WriteAttributeString("what", "proc_number");
+            //xmlWriter.WriteString(Environment.ProcessorCount.ToString());
+            //xmlWriter.WriteEndElement();
+
+            //xmlWriter.WriteEndElement();
+            //xmlWriter.WriteEndDocument();
+
+            //xmlWriter.Close();
+            //Console.WriteLine("done");
             Console.WriteLine("OS Version: {0}", Environment.OSVersion.ToString());
             Console.WriteLine("User: {0}", Environment.UserName.ToString());
             Console.WriteLine("System name: {0}", Environment.MachineName.ToString());
