@@ -1,24 +1,53 @@
-﻿using System; using System.Collections.Generic; using System.Linq; using System.Management; using System.Net.NetworkInformation; using System.Text; using System.Threading.Tasks;    namespace networkmanager {     public class networkinfo     {         /// <summary>         /// Returns MAC Address from first Network Card in Computer         /// </summary>         /// <returns>MAC Address in string format</returns>         public string FindMACAddress()         {             //create out management class object using the             //Win32_NetworkAdapterConfiguration class to get the attributes             //of the network adapter             ManagementClass mgmt = new ManagementClass("Win32_NetworkAdapterConfiguration");             //create our ManagementObjectCollection to get the attributes with             ManagementObjectCollection objCol = mgmt.GetInstances();             string address = String.Empty;             //loop through all the objects we find             foreach (ManagementObject obj in objCol)             {                 if (address == String.Empty)  // only return MAC Address from first card                 {                     //grab the value from the first network adapter we find                     //you can change the string to an array and get all                     //network adapters found as well                     //check to see if the adapter's IPEnabled                     //equals true                     if ((bool)obj["IPEnabled"] == true)                     {                         address = obj["MacAddress"].ToString();                     }                 }                 //dispose of our object                 obj.Dispose();             }             //replace the ":" with an empty space, this could also             //be removed if you wish             //address = address.Replace(":", "");             //return the mac address             return address;         }
-        public void network_disks()
-        {
-            //Console.WriteLine("test");
-            try
-            {
-                ManagementObjectSearcher searcher =
-                    new ManagementObjectSearcher("root\\CIMV2",
-                    "SELECT * FROM Win32_NetworkConnection");
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Management;
+using System.Net.NetworkInformation;
+using System.Text;
+using System.Threading.Tasks;
+using System.Net;
 
-                foreach (ManagementObject queryObj in searcher.Get())
+namespace networkmanager
+{
+    public class networkinfo
+    {
+        public string FindMACAddress()
+        {
+            ManagementClass mgmt = new ManagementClass("Win32_NetworkAdapterConfiguration");
+            ManagementObjectCollection objCol = mgmt.GetInstances();
+            string address = String.Empty;
+            foreach (ManagementObject obj in objCol)
+            {
+                if (address == String.Empty)  // only return MAC Address from first card
                 {
-                    Console.WriteLine("-----------------------------------");
-                    Console.WriteLine("Win32_NetworkConnection instance");
-                    Console.WriteLine("-----------------------------------");
-                    Console.WriteLine("Name: {0}", queryObj["Name"]);
-                    Console.WriteLine("RemoteName: {0}", queryObj["RemoteName"]);
+                    if ((bool)obj["IPEnabled"] == true)
+                    { address = obj["MacAddress"].ToString(); }
+                }//dispose of our object
+                obj.Dispose();
+            }
+            return address;
+        }
+
+        public void get_ip_addr()
+        {
+            String strHostName = string.Empty;
+            strHostName = Dns.GetHostName();
+            Console.WriteLine("hostname: {0}", strHostName);
+            IPHostEntry ipEntry = Dns.GetHostEntry(strHostName);
+            IPAddress[] addr = ipEntry.AddressList;
+
+            for (int i = 0; i < addr.Length; i++)
+            {
+                string thisip = addr[i].ToString();
+                if (thisip[0] == 'f') // I assume this a local IPv6 addr
+                {
+                    Console.WriteLine("IPv6 Address : {1} ", i, addr[i].ToString());
+                }
+                else
+                {
+                    Console.WriteLine("IPv4 Address : {1} ", i, addr[i].ToString());
                 }
             }
-            catch (ManagementException e)
-            {
-                Console.WriteLine("An error occurred while querying for WMI data: " + e.Message);
-            }
-        }     } } 
+        }
+    }
+}

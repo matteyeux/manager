@@ -50,6 +50,7 @@ namespace manager
             Console.Write("\n");
 
             Console.WriteLine("=== NETWORK ===");
+            netfuncts.get_ip_addr();
             Console.WriteLine("Ethernet MAC address : " + netfuncts.FindMACAddress());
             Console.Write("\n");
 
