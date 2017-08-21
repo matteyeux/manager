@@ -12,28 +12,7 @@ using OpenHardwareMonitor.Collections;
 namespace hardwaremanager
 {
     public class hardwareinfo
-    {   
-         public int partition_number()
-        {
-            try
-            {
-                ManagementObjectSearcher searcher =
-                    new ManagementObjectSearcher("root\\CIMV2",
-                    "SELECT * FROM Win32_DiskDrive");
-
-                foreach (ManagementObject queryObj in searcher.Get())
-                {
-                    Console.WriteLine("Partitions: {0}", queryObj["Partitions"]);
-                }
-            }
-            catch (ManagementException e)
-            {
-                Console.WriteLine("An error occurred while querying for WMI data: " + e.Message);
-                return -1;        
-            }
-            return 0;
-        }
-               
+    {              
         public void voltage_info()
         {
             System.Management.ObjectQuery query = new ObjectQuery("Select * FROM Win32_Battery");
@@ -51,6 +30,7 @@ namespace hardwaremanager
         }
         public void all_ram_info()
         {
+            int slotnb = 0;
             try
             {
                 ManagementObjectSearcher searcher =
@@ -59,12 +39,14 @@ namespace hardwaremanager
 
                 foreach (ManagementObject queryObj in searcher.Get())
                 {
+                    Console.WriteLine("\nSlot : {0}", slotnb);
                     Console.WriteLine("Tag: {0}", queryObj["Tag"]);
                     Console.WriteLine("Attributes: {0}", queryObj["Attributes"]);
                     Console.WriteLine("Manufacturer: {0}", queryObj["Manufacturer"]);
                     Console.WriteLine("SerialNumber: {0}", queryObj["SerialNumber"]);
-                    Console.WriteLine("TotalWidth: {0}", queryObj["TotalWidth"]); // max possible ?
+                    Console.WriteLine("Total Width: {0}", queryObj["TotalWidth"]); // max possible ?
                     Console.WriteLine("Capacity: {0}", queryObj["Capacity"]); // RAM 
+                    slotnb++;
                 }
             }
             catch (ManagementException e)
@@ -105,15 +87,13 @@ namespace hardwaremanager
             try
             {
                 ManagementObjectSearcher searcher = new ManagementObjectSearcher("root\\CIMV2","SELECT * FROM Win32_Fan");
-                int i = 0;
+                int fan_nb = 0;
                 foreach (ManagementObject queryObj in searcher.Get())
                 {
-                    Console.WriteLine("-----------------------------------");
-                    Console.WriteLine("Win32_Fan instance {0}", i);
-                    Console.WriteLine("-----------------------------------");
+                    Console.WriteLine("\nFAN {0}", fan_nb);
                     Console.WriteLine("Description: {0}", queryObj["Description"]);
                     Console.WriteLine("Status: {0}", queryObj["Status"]);
-                    i++;
+                    fan_nb++;
                 }
             }
             catch (ManagementException e)

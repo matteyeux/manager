@@ -75,17 +75,8 @@ namespace systemmanager
 
                 foreach (ManagementObject queryObj in searcher.Get())
                 {
-                    Console.WriteLine("-----------------------------------");
-                    Console.WriteLine("Win32_BootConfiguration instance");
-                    Console.WriteLine("-----------------------------------");
+                    Console.WriteLine("\nBoot Config");
                     Console.WriteLine("BootDirectory: {0}", queryObj["BootDirectory"]);
-                    Console.WriteLine("Caption: {0}", queryObj["Caption"]);
-                    Console.WriteLine("ConfigurationPath: {0}", queryObj["ConfigurationPath"]);
-                    Console.WriteLine("Description: {0}", queryObj["Description"]);
-                    Console.WriteLine("LastDrive: {0}", queryObj["LastDrive"]);
-                    Console.WriteLine("Name: {0}", queryObj["Name"]);
-                    Console.WriteLine("ScratchDirectory: {0}", queryObj["ScratchDirectory"]);
-                    Console.WriteLine("SettingID: {0}", queryObj["SettingID"]);
                     Console.WriteLine("TempDirectory: {0}", queryObj["TempDirectory"]);
                 }
             }

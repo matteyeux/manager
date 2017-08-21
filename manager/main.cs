@@ -45,7 +45,6 @@ namespace manager
             }
             Console.WriteLine("RAM type : {0} ", instance.ram_Type());
             instance.fan_stuff();
-            instance.partition_number();
             instance.all_ram_info();
             Console.Write("\n");
              
@@ -57,11 +56,10 @@ namespace manager
             Console.WriteLine("=== SYSTEM ===");
             sys.osinfo();
             sys.boot_conf();
-            sys.windows_info();
             sys.bios_is_cool();
             sys.windows_info();
 
-            Console.WriteLine("=== DISKS ===");
+            Console.WriteLine("\n=== DISKS ===");
             disks.storage_drives();
 
             Console.Write("\n");
