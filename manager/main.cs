@@ -48,7 +48,7 @@ namespace manager
             instance.partition_number();
             instance.all_ram_info();
             Console.Write("\n");
-
+             
             Console.WriteLine("=== NETWORK ===");
             netfuncts.get_ip_addr();
             Console.WriteLine("Ethernet MAC address : " + netfuncts.FindMACAddress());
