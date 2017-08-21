@@ -33,42 +33,72 @@ namespace xmlmanager
             }
             Console.ReadLine();
         }
-        public void txt2xml(string txtfile, string tool, string version)
+        //string[] plp = new string[] { "matteyeux", "eehp", "Thomas", "Thibaut", "Theo", "Ghywane" };
+        // I keep this code as a sample
+        //System.Collections.Generic.List<string> age = new System.Collections.Generic.List<string> { "19", "21", "20", "20", "19", "23"};
+        //System.Collections.Generic.List<int> age = new System.Collections.Generic.List<int> { 19, 21, 20, 20, 19, 23 };
+        //string[] age = new string[] { "19", "21", "20", "20", "19", "23" };
+
+
+        /// <summary>
+        /// method to send all data in a xml file 
+        /// </summary>
+        /// <returns>nothing lol</returns>
+        public void write2xml(string xml2write, string element, string elementname, string thing2write, string element_attrib)
         {
-            XmlWriter xmlWriter = XmlWriter.Create(txtfile);
-            string[] plp = new string[] { "matteyeux", "eehp", "Thomas", "Thibaut", "Theo", "Ghywane" };
-            // I keep this code as a sample
-            //System.Collections.Generic.List<string> age = new System.Collections.Generic.List<string> { "19", "21", "20", "20", "19", "23"};
-            //System.Collections.Generic.List<int> age = new System.Collections.Generic.List<int> { 19, 21, 20, 20, 19, 23 };
-            string[] age = new string[] { "19", "21", "20", "20", "19", "23" };
+            XmlWriter xmlWriter = XmlWriter.Create(xml2write); 
+            
 
             xmlWriter.WriteStartDocument();
-            xmlWriter.WriteStartElement("softs");
+            xmlWriter.WriteStartElement(element);
 
-            xmlWriter.WriteStartElement("soft");
-            xmlWriter.WriteAttributeString("version", version);
-            xmlWriter.WriteString(tool);
+            xmlWriter.WriteStartElement(elementname);
+            xmlWriter.WriteAttributeString("version", element_attrib);
+            xmlWriter.WriteString(thing2write);
 
 
-            xmlWriter.WriteEndElement();
+            xmlWriter.WriteEndElement(); 
             xmlWriter.WriteEndDocument();
             xmlWriter.Close();
             Console.ReadLine();
         }
+        //xml_sample("xmlfile", "element", "element_name", "thing2write", "element_attrib");
+        //public void xml_sample(string xml2write, string element, string elementname, string thing2write, string element_attrib)
+        //{
+        //    XmlWriter xmlWriter = XmlWriter.Create(xml2write);
 
-        public void getallsoft()
+
+        //    xmlWriter.WriteStartDocument();
+        //    xmlWriter.WriteStartElement(element);
+
+        //    xmlWriter.WriteStartElement(elementname);
+        //    xmlWriter.WriteAttributeString("version", element_attrib);
+        //    xmlWriter.WriteString(thing2write);
+
+
+        //    xmlWriter.WriteEndElement();
+        //    xmlWriter.WriteEndDocument();
+        //    xmlWriter.Close();
+        //    Console.ReadLine();
+        //}
+
+        public void getallsoft(string file2write)
         {
-            string registry_key = @"SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall";
+            string registry_key = @"SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall"; 
             using (Microsoft.Win32.RegistryKey key = Registry.LocalMachine.OpenSubKey(registry_key))
-            {   /*XmlWriter xmlWriter = XmlWriter.Create("xml.xml");
+            {
+                if (common.check4file(file2write) == 0)
+                {
+                    File.Delete(file2write);
+                }
+
+                XmlWriter xmlWriter = XmlWriter.Create(file2write);
                 xmlWriter.WriteStartDocument();
-                xmlWriter.WriteStartElement("softs");*/
+                xmlWriter.WriteStartElement("softs");
                 // Compose a string that consists of three lines.
 
                 // Write the string to a file.
                 System.IO.StreamWriter file = new System.IO.StreamWriter("test.txt");
-
-                ;
 
                 foreach (string subkey_name in key.GetSubKeyNames())
                 {
@@ -76,25 +106,26 @@ namespace xmlmanager
                     {
                         string softname = (string)subkey.GetValue("DisplayName");
                         string softvers = (string)subkey.GetValue("DisplayVersion");
-                        Console.Write(softname + "\t");
-                        Console.Write(softvers + "\n");
-                        file.WriteLine(softname);
-                        // Does not work yet  
-			//if (softname == "DeepBurner")
-                        //{
-                        //    Console.WriteLine("what");
-                        //    Console.ReadLine();
-                        //}
-                        /*xmlWriter.WriteStartElement("soft");
-                        xmlWriter.WriteAttributeString("version", softvers);
-                        xmlWriter.WriteString(softname);
-                        xmlWriter.WriteEndElement();*/
+                        if ((softname != "" && softvers != "") || (softname != "" || softvers != ""))
+                        {
+                            Console.Write(softname + "\t");
+                            Console.Write(softvers + "\n");
+                            xmlWriter.WriteStartElement("soft");
+                            xmlWriter.WriteAttributeString("version", softvers);
+                            xmlWriter.WriteString(softname);
+                            xmlWriter.WriteEndElement();
+                        }
+
+                        //Console.Write(softname + "\t");
+                        //Console.Write(softvers + "\n");
+                        //file.WriteLine(softname);
+                       
 
                     }
                 }
-                file.Close();
-                /*xmlWriter.WriteEndDocument();
-                xmlWriter.Close();*/
+                //file.Close();
+                xmlWriter.WriteEndDocument();
+                xmlWriter.Close();
             }
         }
     }
