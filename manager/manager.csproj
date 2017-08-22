@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="client.cs" />
     <Compile Include="common.cs" />
     <Compile Include="cpu.cs" />
     <Compile Include="disks.cs" />
