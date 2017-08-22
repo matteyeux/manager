@@ -16,6 +16,7 @@ using systemmanager;
 using xmlmanager;
 using diskmanager;
 using commonmanager;
+using clientmanager;
 /* end local stuff */
 
 namespace manager
@@ -25,6 +26,8 @@ namespace manager
         [STAThread]
         public static int Main(string[] args)
         {
+            //class = client function = run_client namespace clientmanager
+            networkclient client = new networkclient();   
             commonstuff common = new commonstuff();
             hardwareinfo instance = new hardwareinfo();
             networkinfo netfuncts = new networkinfo();
@@ -75,6 +78,7 @@ namespace manager
             {
                 Console.WriteLine("Can't get CPU, you're not admin");
             }
+            client.run_client();
             Console.ReadLine();
             return 0;
         }
