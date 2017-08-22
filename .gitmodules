@@ -1,0 +1,3 @@
+[submodule "win-client-srv"]
+	path = win-client-srv
+	url = https://github.com/matteyeux/win-client-srv
