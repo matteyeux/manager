@@ -18,7 +18,6 @@ namespace commonmanager
             {
                 return -1;
             }
-            //Console.WriteLine(File.Exists(datfile) ? "File exists." : "File does not exist.");
         }
         public bool IsAdministrator()
         {

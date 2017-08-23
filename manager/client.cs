@@ -4,7 +4,6 @@ using System.Net;
 using System.Text;
 using System.Net.Sockets;
 
-
 namespace clientmanager
 {
     class networkclient
@@ -16,13 +15,13 @@ namespace clientmanager
                 TcpClient tcpclnt = new TcpClient();
                 Console.WriteLine("Connecting.....");
 
-                tcpclnt.Connect("W0183100", 8888);
+                tcpclnt.Connect("127.0.0.1", 8888);
 
                 Console.WriteLine("Connected");
                 Stream stm = tcpclnt.GetStream();
 
                 ASCIIEncoding asen = new ASCIIEncoding();
-                byte[] ba = asen.GetBytes("hello it's me"); // here is the message to transmit
+                byte[] ba = asen.GetBytes("hello it's me ~matteyeux"); // here is the message to transmit
                 Console.WriteLine("Transmitting.....");
 
                 stm.Write(ba, 0, ba.Length);
