@@ -12,7 +12,7 @@ using OpenHardwareMonitor.Collections;
 namespace hardwaremanager
 {
     public class hardwareinfo
-    {              
+    {
         public void voltage_info()
         {
             System.Management.ObjectQuery query = new ObjectQuery("Select * FROM Win32_Battery");
@@ -28,6 +28,10 @@ namespace hardwaremanager
                 }
             }
         }
+        /// <summary>
+        /// permet de recuperer les infos sur la mémoire RAM
+        /// </summary>
+        /// <returns>void</returns>
         public void all_ram_info()
         {
             int slotnb = 0;
@@ -54,10 +58,13 @@ namespace hardwaremanager
                 Console.WriteLine("An error occurred while querying for WMI data: " + e.Message);
             }
         }
-        
+
+        /// <summary>
+        /// verifie quel type de RAM est present dans la machine
+        /// </summary>
+        /// <returns>Le type de RAM (str)</returns>
         public string ram_Type()
-        {
-               
+        {    
             int type = 0;
             var searcher = new ManagementObjectSearcher("Select * from Win32_PhysicalMemory");
             foreach (ManagementObject obj in searcher.Get())
@@ -82,6 +89,10 @@ namespace hardwaremanager
             }
 
         }
+        /// <summary>
+        /// check dynamiquement la presence et le statut des ventilateurs
+        /// </summary>
+        /// <returns>void</returns>
         public void fan_stuff()
         {
             try
@@ -102,13 +113,18 @@ namespace hardwaremanager
             }
         }
 
+        /// <summary>
+        /// Verifie si le lecteur carte agent est branché
+        /// Marche sur ma machine
+        /// </summary>
+        /// <returns>booleen (true or false)</returns>
         public bool check_for_xiring_device()
         {
             var usbDevices = GetUSBDevices();
             foreach (var usbDevice in usbDevices)
             {
                 Debug.WriteLine("Device ID : {0}, PNP Device ID {1}, Device Description {2}", usbDevice.DeviceID, usbDevice.PnpDeviceID, usbDevice.Description);
-                if (usbDevice.PnpDeviceID == "SWD\\SCDEVICEENUM\\1_XIRING_USB_SMART_CARD_READER_0")
+                if (usbDevice.DeviceID == "SWD\\SCDEVICEENUM\\1_XIRING_USB_SMART_CARD_READER_0" || usbDevice.PnpDeviceID == "SWD\\SCDEVICEENUM\\1_XIRING_USB_SMART_CARD_READER_0")
                 {
                     return true;
                 }
@@ -116,6 +132,10 @@ namespace hardwaremanager
             return false;
         }
 
+        /// <summary>
+        /// Liste les peripheriques USB presents sur la machine
+        /// </summary>
+        /// <returns>devices</returns>
         static List<USBDeviceInfo> GetUSBDevices()
         {
             List<USBDeviceInfo> devices = new List<USBDeviceInfo>();

@@ -8,14 +8,21 @@ namespace clientmanager
 {
     class networkclient
     {
-        public void run_client()
+        /// <summary>
+        /// client réseau pour communiquer avec le serveur
+        /// </summary>
+        /// <param name="ip">ip du serveur</param>
+        /// <param name="port">port sur lequel communiquer</param>
+        /// <returns>void</returns>
+        public void run_client(string ip, int port)
         {
+            int bytelen = 256;
             try
             {
                 TcpClient tcpclnt = new TcpClient();
                 Console.WriteLine("Connecting.....");
 
-                tcpclnt.Connect("127.0.0.1", 8888);
+                tcpclnt.Connect(ip, port);
 
                 Console.WriteLine("Connected");
                 Stream stm = tcpclnt.GetStream();
@@ -26,12 +33,11 @@ namespace clientmanager
 
                 stm.Write(ba, 0, ba.Length);
 
-                byte[] bb = new byte[100];
-                int k = stm.Read(bb, 0, 100);
+                byte[] bb = new byte[bytelen];
+                int k = stm.Read(bb, 0, bytelen);
 
                 for (int i = 0; i < k; i++)
                     Console.Write(Convert.ToChar(bb[i]));
-
                 tcpclnt.Close();
             }
             catch (Exception e)

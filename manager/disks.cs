@@ -13,6 +13,12 @@ namespace diskmanager
     class disksinfo
     {
         commonstuff common = new commonstuff();
+
+        /// <summary>
+        /// méthode pour vérifier si un disque existe
+        /// </summary>
+        /// <param name="currdrive">Lettre du dique</param>
+        /// <returns>0 ou -1 </returns>
         public int check_if_disk_exists(string currdrive)
         {
             string realdrive = currdrive + ":";
@@ -28,6 +34,11 @@ namespace diskmanager
             }
         }
 
+        /// <summary>
+        /// méthode lister les partitions d'un dique
+        /// </summary>
+        /// <param name="currdrive">Lettre du dique</param>
+        /// <returns>0 ou -1</returns>
         public int partition_number()
         {
             try
@@ -50,33 +61,37 @@ namespace diskmanager
         }
 
         /// <summary>
-        /// method to retrieve the selected HDD's serial number
+        /// methode pour recuperer le SN
         /// </summary>
-        /// <param name="strDriveLetter">Drive letter to retrieve serial number for</param>
-        /// <returns>the HDD's serial number</returns>
+        /// <param name="drive">Lettre du disque dont on veut récuperer le SN</param>
+        /// <returns>Le SN du disque</returns>
         static string GetHDDSerialNumber(string drive)
         {
-            //create our ManagementObject, passing it the drive letter to the
-            //DevideID using WQL
             ManagementObject disk = new ManagementObject("Win32_LogicalDisk.DeviceID=\"" + drive[0] + ":\"");
-            //bind our management object
             disk.Get();
-            // if CDRom or something else it means it's null
+            // j'ajoute un check, si ça retourne null c'est un lecteur de CD-ROM
             if (disk["VolumeSerialNumber"] == null)
             {
                 return null;
             }
-            //return the serial number
             return disk["VolumeSerialNumber"].ToString();
         }
 
-
+        /// <summary>
+        /// permet de convertir en octets -> GO (ou GB en anglais)
+        /// </summary>
+        /// <param name="bytesentry">valeur en octets (bytes)</param>
+        /// <returns>Le SN du disque</returns>
         static double byte2gb(double bytesentry)
         {
             double result = bytesentry / 1073741824;
             return result;
         }
 
+        /// <summary>
+        /// Permet de recuperer dynamiquement les disques + les infos de ceux-ci
+        /// </summary>
+        /// <returns>0</returns>
         public int storage_drives()
         {
             DriveInfo[] allDrives = DriveInfo.GetDrives();

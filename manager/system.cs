@@ -10,7 +10,11 @@ using System.Xml;
 namespace systemmanager
 {
     class systeminfo
-    {
+    {   
+        /// <summary>
+        /// recuperation des infos systemes
+        /// </summary>
+        /// <returns>void</returns>
         public void osinfo()
         {
             int uptime = Environment.TickCount & Int32.MaxValue;
@@ -64,7 +68,10 @@ namespace systemmanager
             Console.WriteLine("System Drive: {0} ", Environment.ExpandEnvironmentVariables("%SystemDrive%"));
         }
 
-        // This function is used to check integrity of boot process
+        /// <summary>
+        /// recup d'infos de demarrage
+        /// </summary>
+        /// <returns>0</returns>
         public int boot_conf()
         {
             try
@@ -88,6 +95,10 @@ namespace systemmanager
             return 0;
         }
 
+        /// <summary>
+        /// check l'architecture est 32 ou 64 bits
+        /// </summary>
+        /// <returns>Clock speed</returns>
         public bool windows_info()
         {
             bool is64bit = !string.IsNullOrEmpty(Environment.GetEnvironmentVariable("PROCESSOR_ARCHITEW6432"));
@@ -95,13 +106,16 @@ namespace systemmanager
             {
                 Console.WriteLine("Windows architecture is 64 bits");
             }
-            else
+            else 
             {
                 Console.WriteLine("Windows architecture is 32 bits");
             }
             return is64bit;
         }
-
+        /// <summary>
+        /// check si c'est le bios par defaut
+        /// </summary>
+        /// <returns>0</returns>
         public int bios_is_cool()
         {
             try

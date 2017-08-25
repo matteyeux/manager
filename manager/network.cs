@@ -11,6 +11,10 @@ namespace networkmanager
 {
     public class networkinfo
     {
+        /// <summary>
+        /// recup de l'addr MAC de la carte ethernet
+        /// </summary>
+        /// <returns>address</returns>
         public string FindMACAddress()
         {
             ManagementClass mgmt = new ManagementClass("Win32_NetworkAdapterConfiguration");
@@ -18,16 +22,20 @@ namespace networkmanager
             string address = String.Empty;
             foreach (ManagementObject obj in objCol)
             {
-                if (address == String.Empty)  // only return MAC Address from first card
+                if (address == String.Empty)
                 {
                     if ((bool)obj["IPEnabled"] == true)
-                    { address = obj["MacAddress"].ToString(); }
-                }//dispose of our object
+                        address = obj["MacAddress"].ToString();
+                }
+
                 obj.Dispose();
             }
             return address;
         }
-
+        /// <summary>
+        /// recuperation des addresses IP locales (IPV4 et IPv6)
+        /// </summary>
+        /// <returns>void</returns>
         public void get_ip_addr()
         {
             String strHostName = string.Empty;

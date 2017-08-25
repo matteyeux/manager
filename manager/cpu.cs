@@ -30,35 +30,31 @@ namespace cpumanager
             }        
         }
         /// <summary>
-        /// method to retrieve the CPU's current
-        /// clock speed using the WMI class
+        /// recuperation du clock speed
         /// </summary>
         /// <returns>Clock speed</returns>
         public int GetCPUCurrentClockSpeed()
         {
             int cpuClockSpeed = 0;
-            //create an instance of the Managemnet class with the
-            //Win32_Processor class
+            
             ManagementClass mgmt = new ManagementClass("Win32_Processor");
-            //create a ManagementObjectCollection to loop through
             ManagementObjectCollection objCol = mgmt.GetInstances();
-            //start our loop for all processors found
+            // loop pour tous les processeurs detectés
             foreach (ManagementObject obj in objCol)
             {
                 if (cpuClockSpeed == 0)
                 {
-                    // only return cpuStatus from first CPU
+                    // retourne uniquement le clock speed du premier CPU
                     cpuClockSpeed = Convert.ToInt32(obj.Properties["CurrentClockSpeed"].Value.ToString());
                 }
             }
             //return the status
             return cpuClockSpeed;
         }
-        //private DateTime now;
+
         protected readonly ListSet<ISensor> active = new ListSet<ISensor>();
         public event SensorEventHandler SensorAdded;
-        //public event SensorEventHandler SensorRemoved;
-
+        
         protected virtual void ActivateSensor(ISensor sensor)
         {
             if (active.Add(sensor))
@@ -66,6 +62,10 @@ namespace cpumanager
                     SensorAdded(sensor);
         }
 
+        /// <summary>
+        /// recup d'infos (inutiles ?) du CPU
+        /// </summary>
+        /// <returns>void</returns>
         public void more_cpu_info()
         {
             /*
@@ -86,8 +86,7 @@ namespace cpumanager
             myComputer.CPUEnabled = true;
             myComputer.ToCode();
             myComputer.Open();
-            //File.Delete("test.txt");
-            //System.IO.StreamWriter file = new System.IO.StreamWriter("test.txt");
+            
             foreach (var hardwareItem in myComputer.Hardware)
             {
                 hardwareItem.Update();
@@ -100,11 +99,9 @@ namespace cpumanager
                     if (sensor.SensorType == SensorType.Temperature)
                     {
                             Console.WriteLine("{0} {1} = {2}", sensor.Name, sensor.SensorType, sensor.Value);
-                            //file.WriteLine("{0} {1} = {2}", sensor.Name, sensor.SensorType, sensor.Value);
                     }
                 }
             }
-            //file.Close();
         }
     }
 }
