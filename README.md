@@ -1,21 +1,28 @@
 # manager
 
-## RÈseau
+Manager est un logiciel de gestion de parc informatique, pour les syst√®mes d'exploitation Windows.
+Il est bas√© sur une architecture client-serveur.
+
+# Client 
+
+Le client install√© sur les machines va r√©guli√®rement r√©cuperer diff√©rentes informations pour les envoyer au serveur qui va ainsi traiter celles-ci.
+
+### R√©seau
 - IPv4
 - IPv6
 - addr MAC
 
-## SystËme
+### Syst√®me
 
 - OS version
 - architecture
 - username
 - nom de la machine
 - Uptime
-- Disque systËme (C:)
-- BIOS (pour des raisons de sÈcuritÈ je regarde si le BIOS est celui par dÈfaut, Áa semble bÈnin, mais c'est pour prÈvenir en cas de backdoor ou bootkit)
+- Disque syst√®me (C:)
+- BIOS (pour des raisons de s√©curit√© je regarde si le BIOS est celui par d√©faut, √ßa semble b√©nin, mais c'est pour pr√©venir en cas de backdoor ou bootkit)
 
-## Disques durs
+### Disques durs
 
 - Nom du disque (sa lettre correspondante)
 - Son type (amovible ou non)
@@ -25,7 +32,7 @@
 - La taille du disque (GO)
 - L'espace dispo (Go et %)
 
-## CPU
+### CPU
 
 - Type de CPU
-- TempÈrature de chaque core CPU
+- Temp√©rature de chaque core CPU
