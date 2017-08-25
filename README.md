@@ -25,6 +25,7 @@ Le client installé sur les machines va régulièrement récuperer différentes 
 ### Disques durs
 
 - Nom du disque (sa lettre correspondante)
+- Temperature du disque dur
 - Son type (amovible ou non)
 - Le serial number
 - Son label (DATA ou OS) 
