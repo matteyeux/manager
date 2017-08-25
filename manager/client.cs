@@ -22,9 +22,17 @@ namespace clientmanager
                 TcpClient tcpclnt = new TcpClient();
                 Console.WriteLine("Connecting.....");
 
-                tcpclnt.Connect(ip, port);
+                try
+                {
+                    tcpclnt.Connect(ip, port);
+                    Console.WriteLine("Connected");
+                }
+                catch (SocketException ex)
+                {
+                    Console.WriteLine("[ERROR] " + ex.Message);
+                    return;
+                }
 
-                Console.WriteLine("Connected");
                 Stream stm = tcpclnt.GetStream();
 
                 ASCIIEncoding asen = new ASCIIEncoding();
@@ -42,7 +50,7 @@ namespace clientmanager
             }
             catch (Exception e)
             {
-                Console.WriteLine("Error..... " + e.StackTrace);
+                Console.WriteLine("Erreur : {0}", e.StackTrace);
             }
         }
     }
