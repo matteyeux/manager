@@ -1,13 +1,18 @@
 # manager
 
 Manager est un logiciel de gestion de parc informatique, pour les systèmes d'exploitation Windows.
+Il est basé sur une architecture client-serveur.
 
-## Réseau
+# Client 
+
+Le client installé sur les machines va régulièrement récuperer différentes informations pour les envoyer au serveur qui va ainsi traiter celles-ci.
+
+### Réseau
 - IPv4
 - IPv6
 - addr MAC
 
-## Système
+### Système
 
 - OS version
 - architecture
@@ -17,7 +22,7 @@ Manager est un logiciel de gestion de parc informatique, pour les systèmes d'ex
 - Disque système (C:)
 - BIOS (pour des raisons de sécurité je regarde si le BIOS est celui par défaut, ça semble bénin, mais c'est pour prévenir en cas de backdoor ou bootkit)
 
-## Disques durs
+### Disques durs
 
 - Nom du disque (sa lettre correspondante)
 - Son type (amovible ou non)
@@ -27,7 +32,7 @@ Manager est un logiciel de gestion de parc informatique, pour les systèmes d'ex
 - La taille du disque (GO)
 - L'espace dispo (Go et %)
 
-## CPU
+### CPU
 
 - Type de CPU
 - Température de chaque core CPU
