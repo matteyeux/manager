@@ -106,13 +106,30 @@ namespace diskmanager
                 }
                 if (d.IsReady == true)
                 {
-                    Console.WriteLine("Volume label:  {0}", d.VolumeLabel);
+                    Console.Write("Volume label:  {0}", d.VolumeLabel);
+                    if (d.VolumeLabel == "OSDisk")
+                        Console.WriteLine("\t temperature : {0}°C", gethhdtemp());
                     Console.WriteLine("File system:   {0}", d.DriveFormat);
                     Console.WriteLine("HDD Size:      {0} Go", Math.Round(byte2gb(d.TotalSize), 2));
                     Console.WriteLine("Free Space:    {0} Go  \t{1}%", Math.Round(byte2gb(d.TotalFreeSpace) ,2), Math.Round(common.convert2percent(d.TotalSize, d.TotalFreeSpace), 2));
                 }
             }
             return 0;
+        }
+
+        public string gethhdtemp()
+        {
+            ManagementObjectSearcher searcher = new ManagementObjectSearcher("root\\WMI", "SELECT * FROM MSStorageDriver_ATAPISmartData");
+            foreach (ManagementObject queryObj in searcher.Get())
+            {
+                if (queryObj["VendorSpecific"] != null)
+                {
+                    byte[] arrVendorSpecific = (byte[])(queryObj["VendorSpecific"]);
+                    string temp = arrVendorSpecific[115].ToString();
+                    return temp;
+                }
+            }
+            return null;
         }
     }
 }
