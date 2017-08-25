@@ -21,9 +21,9 @@ namespace systemmanager
             float secuptime = uptime / 1000; // millisec -> sec
             float houruptime = secuptime / 3600; // sec -> hours
             int dayuptime = (int) houruptime / 24; // hours -> days
-            //XmlWriter xmlWriter = XmlWriter.Create("xml.xml");
-            //xmlWriter.WriteStartDocument();
-            //xmlWriter.WriteStartElement("softs");
+                                                   //XmlWriter xmlWriter = XmlWriter.Create("xml.xml");
+                                                   //xmlWriter.WriteStartDocument();
+                                                   //xmlWriter.WriteStartElement("softs");
 
             //xmlWriter.WriteStartElement("systeminfo");
             //xmlWriter.WriteAttributeString("sample", "sample");
@@ -60,10 +60,37 @@ namespace systemmanager
 
             //xmlWriter.Close();
             //Console.WriteLine("done");
-            Console.WriteLine("OS Version: {0}", Environment.OSVersion.ToString());
+            try
+            {
+                ManagementObjectSearcher searcher = new ManagementObjectSearcher("root\\CIMV2", "SELECT * FROM Win32_OperatingSystem");
+                foreach (ManagementObject queryObj in searcher.Get())
+                {
+                    Console.WriteLine("Systeme : {0}", queryObj["Caption"]);
+                    Console.WriteLine("Version: {0}", queryObj["Version"]);
+                    Console.WriteLine("BuildNumber : {0}", queryObj["BuildNumber"]);
+                    Console.WriteLine("Fabriquant : {0}", queryObj["Manufacturer"]);
+                    Console.WriteLine("Utilisateur : {0}", queryObj["Description"]);
+                    Console.WriteLine("Organization: {0}", queryObj["Organization"]);
+
+                    if (queryObj["MUILanguages"] == null)
+                        Console.WriteLine("Langage : {0}", queryObj["MUILanguages"]);
+                    else
+                    {
+                        String[] arrMUILanguages = (String[])(queryObj["MUILanguages"]);
+                        foreach (String arrValue in arrMUILanguages)
+                        {
+                            Console.WriteLine("Langage : {0}", arrValue);
+                        }
+                    }
+                }
+            }
+            catch (ManagementException e)
+            {
+                Console.WriteLine("An error occurred while querying for WMI data: " + e.Message);
+            }
+            Console.WriteLine("Kernel OS Version: {0}", Environment.OSVersion.ToString()); //kversion
             Console.WriteLine("User: {0}", Environment.UserName.ToString());
             Console.WriteLine("System name: {0}", Environment.MachineName.ToString());
-            Console.WriteLine("Proc count: {0}", Environment.ProcessorCount.ToString());
             Console.WriteLine("Uptime: {0} days", dayuptime);
             Console.WriteLine("System Drive: {0} ", Environment.ExpandEnvironmentVariables("%SystemDrive%"));
         }
