@@ -107,7 +107,7 @@ namespace diskmanager
                 if (d.IsReady == true)
                 {
                     Console.Write("Volume label:  {0}", d.VolumeLabel);
-                    if (d.VolumeLabel == "OSDisk")
+                    if (d.VolumeLabel == "OSDisk" && common.IsAdministrator() == true)
                         Console.WriteLine("\t temperature : {0}°C", gethhdtemp());
                     Console.WriteLine("File system:   {0}", d.DriveFormat);
                     Console.WriteLine("HDD Size:      {0} Go", Math.Round(byte2gb(d.TotalSize), 2));
