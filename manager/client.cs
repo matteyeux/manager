@@ -29,7 +29,7 @@ namespace clientmanager
                 }
                 catch (SocketException ex)
                 {
-                    Console.WriteLine("[ERROR] " + ex.Message);
+                    Console.WriteLine("[ERROR] unable to connect to {0} on port {1}", ip, port);
                     return;
                 }
 
