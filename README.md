@@ -25,6 +25,7 @@ Le client installé sur les machines va régulièrement récuperer différentes 
 ### Disques durs
 
 - Nom du disque (sa lettre correspondante)
+- Temperature du disque dur
 - Son type (amovible ou non)
 - Le serial number
 - Son label (DATA ou OS) 
@@ -36,3 +37,19 @@ Le client installé sur les machines va régulièrement récuperer différentes 
 
 - Type de CPU
 - Température de chaque core CPU
+
+## Serveur
+
+Le serveur reçoit les informations pour les rediriger dans un fichier XML qui envoyer celles-ci vers une base de donnée
+
+
+## Contribution
+
+- Cloner le repository ainsi que le git submodule server : `git clone https://github.com/matteeyeux/manager`
+- Initialiser et cloner les sous modules: `git submodule init && git submodule update`
+
+Si lorsque vous clonez ou que souhaitez contribuer au projet mais que vous avez cette erreur : <br>
+`fatal: unable to access 'https://github.com/matteyeux/manager/': Couldn't resolve host 'github.com'`
+Il faut configurer `git` pour qu'il passe par votre proxy : <br>
+`git config --global http.proxy https://user:passwd@proxy:port`
+
