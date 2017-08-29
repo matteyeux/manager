@@ -36,14 +36,13 @@ namespace clientmanager
                 Stream stm = tcpclnt.GetStream();
 
                 ASCIIEncoding asen = new ASCIIEncoding();
-                byte[] ba = asen.GetBytes("hello it's me ~matteyeux"); // here is the message to transmit
+                byte[] ba = asen.GetBytes("hello it's me ~matteyeux\n"); // here is the message to transmit
                 Console.WriteLine("Transmitting.....");
 
                 stm.Write(ba, 0, ba.Length);
-
                 byte[] bb = new byte[bytelen];
-                int k = stm.Read(bb, 0, bytelen);
 
+                int k = stm.Read(bb, 0, bytelen);
                 for (int i = 0; i < k; i++)
                     Console.Write(Convert.ToChar(bb[i]));
                 tcpclnt.Close();
