@@ -117,6 +117,11 @@ namespace diskmanager
             return 0;
         }
 
+        /// <summary>
+        /// Permet de recuperer la temperature du disque principal
+        /// A lancer en tant qu'admin
+        /// </summary>
+        /// <returns>temp</returns>
         public string gethhdtemp()
         {
             ManagementObjectSearcher searcher = new ManagementObjectSearcher("root\\WMI", "SELECT * FROM MSStorageDriver_ATAPISmartData");
@@ -129,7 +134,7 @@ namespace diskmanager
                     return temp;
                 }
             }
-            return null;
+            return null; // on devrait pas atterir la
         }
     }
 }
