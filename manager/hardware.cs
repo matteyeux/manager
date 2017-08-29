@@ -38,6 +38,7 @@ namespace hardwaremanager
         public void all_ram_info()
         {
             int slotnb = 0; // ARRAY STARTS AT 0;
+            double total_ram = 0;
             try
             {
                 ManagementObjectSearcher searcher = new ManagementObjectSearcher("root\\CIMV2", "SELECT * FROM Win32_PhysicalMemory");
@@ -50,8 +51,10 @@ namespace hardwaremanager
                     Console.WriteLine("Manufacturer: {0}", queryObj["Manufacturer"]);
                     Console.WriteLine("SerialNumber: {0}", queryObj["SerialNumber"]);
                     Console.WriteLine("Capacity: {0}GB", common.convertb2gb(0, Convert.ToDouble(queryObj["Capacity"])));
+                    total_ram += common.convertb2gb(0, Convert.ToDouble(queryObj["Capacity"]));
                     slotnb++;
                 }
+                Console.WriteLine("\nTotal RAM : {0}", total_ram);
             }   
             catch (ManagementException e)
             {
