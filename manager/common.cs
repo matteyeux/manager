@@ -60,10 +60,10 @@ namespace commonmanager
                 return total;
             } else if (total == 0) {
                 newval = val / Math.Pow(2, 30);
-                return newval;
+                return Math.Round(newval, 2);
             } else {
                 newval = total / Math.Pow(2, 30) - val / Math.Pow(2, 30);
-                return newval;
+                return Math.Round(newval, 2);
             }
         }
     }
