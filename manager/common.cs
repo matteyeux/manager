@@ -44,7 +44,7 @@ namespace commonmanager
         {
             double result = curr_size / max_size;
             double percent = result * 100;
-            return percent;
+            return Math.Round(percent, 2);
         }
 
         /// <summary>
