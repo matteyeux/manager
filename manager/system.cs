@@ -163,6 +163,5 @@ namespace systemmanager
             }
             return 0;
         }
-
     }
 }
