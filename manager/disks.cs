@@ -19,7 +19,7 @@ namespace diskmanager
         /// </summary>
         /// <param name="currdrive">Lettre du dique</param>
         /// <returns>0 ou -1 </returns>
-        public int check_if_disk_exists(string currdrive)
+        static int check_if_disk_exists(string currdrive)
         {
             string realdrive = currdrive + ":";
             string drive = Path.GetPathRoot(realdrive);
@@ -78,17 +78,6 @@ namespace diskmanager
         }
 
         /// <summary>
-        /// permet de convertir en octets -> GO (ou GB en anglais)
-        /// </summary>
-        /// <param name="bytesentry">valeur en octets (bytes)</param>
-        /// <returns>Le SN du disque</returns>
-        static double byte2gb(double bytesentry)
-        {
-            double result = bytesentry / 1073741824;
-            return result;
-        }
-
-        /// <summary>
         /// Permet de recuperer dynamiquement les disques + les infos de ceux-ci
         /// </summary>
         /// <returns>0</returns>
@@ -110,8 +99,8 @@ namespace diskmanager
                     if (d.VolumeLabel == "OSDisk" && common.IsAdministrator() == true)
                         Console.WriteLine("\t temperature : {0}°C", gethhdtemp());
                     Console.WriteLine("File system:   {0}", d.DriveFormat);
-                    Console.WriteLine("HDD Size:      {0} Go", Math.Round(byte2gb(d.TotalSize), 2));
-                    Console.WriteLine("Free Space:    {0} Go  \t{1}%", Math.Round(byte2gb(d.TotalFreeSpace) ,2), Math.Round(common.convert2percent(d.TotalSize, d.TotalFreeSpace), 2));
+                    Console.WriteLine("HDD Size:      {0} Go", common.convertb2gb(0, d.TotalSize));
+                    Console.WriteLine("Free Space:    {0} Go  \t{1}%", common.convertb2gb(0, d.TotalFreeSpace), common.convert2percent(d.TotalSize, d.TotalFreeSpace));
                 }
             }
             return 0;
