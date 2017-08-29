@@ -28,12 +28,12 @@ namespace commonmanager
         /// verifie si le programme se lance en tant qu'admin
         /// utile pour les infos CPU
         /// </summary>
-        /// <returns>new WindowsPrincipal(WindowsIdentity.GetCurrent())).IsInRole(WindowsBuiltInRole.Administrator)</returns>
+        /// <returns>(new WindowsPrincipal(WindowsIdentity.GetCurrent())).IsInRole(WindowsBuiltInRole.Administrator)</returns>
         public bool IsAdministrator()
         {
-            return (new WindowsPrincipal(WindowsIdentity.GetCurrent()))
-                      .IsInRole(WindowsBuiltInRole.Administrator);
+            return (new WindowsPrincipal(WindowsIdentity.GetCurrent())).IsInRole(WindowsBuiltInRole.Administrator);
         }
+
         /// <summary>
         /// pour convertir en pourcentage des valeurs pour les espaces des dd
         /// </summary>
@@ -45,6 +45,26 @@ namespace commonmanager
             double result = curr_size / max_size;
             double percent = result * 100;
             return percent;
+        }
+
+        /// <summary>
+        /// fonction pour convertir les bytes en gigabytes (=octets)
+        /// </summary>
+        /// <param name="total">taille totale de l'entier (=0) si y'en pas</param>
+        /// <param name="val">la valeur que vous souhaitez convertir</param>
+        /// <returns>total ou newval</returns>
+        public double convertb2gb(double total, double val)
+        {   double newval;
+            if (total < 0) {
+                Console.WriteLine("[ERROR] total is value is : {0}", total);
+                return total;
+            } else if (total == 0) {
+                newval = val / Math.Pow(2, 30);
+                return newval;
+            } else {
+                newval = total / Math.Pow(2, 30) - val / Math.Pow(2, 30);
+                return newval;
+            }
         }
     }
 }
