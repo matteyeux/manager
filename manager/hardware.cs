@@ -8,11 +8,14 @@ using System.Management.Instrumentation;
 using System.IO;
 using System.Diagnostics;
 using OpenHardwareMonitor.Collections;
+using commonmanager;
 
 namespace hardwaremanager
 {
     public class hardwareinfo
     {
+        commonstuff common = new commonstuff();
+
         public void voltage_info()
         {
             System.Management.ObjectQuery query = new ObjectQuery("Select * FROM Win32_Battery");
@@ -34,13 +37,11 @@ namespace hardwaremanager
         /// <returns>void</returns>
         public void all_ram_info()
         {
-            int slotnb = 0;
+            int slotnb = 0; // ARRAY STARTS AT 0;
             try
             {
-                ManagementObjectSearcher searcher =
-                    new ManagementObjectSearcher("root\\CIMV2",
-                    "SELECT * FROM Win32_PhysicalMemory");
-
+                ManagementObjectSearcher searcher = new ManagementObjectSearcher("root\\CIMV2", "SELECT * FROM Win32_PhysicalMemory");
+                
                 foreach (ManagementObject queryObj in searcher.Get())
                 {
                     Console.WriteLine("\nSlot : {0}", slotnb);
@@ -48,11 +49,10 @@ namespace hardwaremanager
                     Console.WriteLine("Attributes: {0}", queryObj["Attributes"]);
                     Console.WriteLine("Manufacturer: {0}", queryObj["Manufacturer"]);
                     Console.WriteLine("SerialNumber: {0}", queryObj["SerialNumber"]);
-                    Console.WriteLine("Total Width: {0}", queryObj["TotalWidth"]); // max possible ?
-                    Console.WriteLine("Capacity: {0}", queryObj["Capacity"]); // RAM 
+                    Console.WriteLine("Capacity: {0}GB", common.convertb2gb(0, Convert.ToDouble(queryObj["Capacity"])));
                     slotnb++;
                 }
-            }
+            }   
             catch (ManagementException e)
             {
                 Console.WriteLine("An error occurred while querying for WMI data: " + e.Message);
@@ -72,7 +72,6 @@ namespace hardwaremanager
                 type = Int32.Parse(obj.GetPropertyValue("MemoryType").ToString());
 
             }
-
             switch (type)
             {
                 case 20:
