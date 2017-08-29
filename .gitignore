@@ -7,4 +7,6 @@ manager/obj/Debug/manager.csproj.FileListAbsolute.txt
 manager/obj/Debug/manager.csprojResolveAssemblyReference.cache
 manager/obj/Debug/manager.exe
 manager/obj/Debug/manager.pdb
-
+manager/bin/Debug/OpenHardwareMonitorLib.sys
+manager/bin/Debug/manager.vshost.exe.manifest
+manager/obj/Debug/CoreCompileInputs.cache
