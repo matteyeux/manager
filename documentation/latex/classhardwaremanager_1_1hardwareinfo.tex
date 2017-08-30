@@ -1,0 +1,100 @@
+\hypertarget{classhardwaremanager_1_1hardwareinfo}{}\section{hardwaremanager.\+hardwareinfo Class Reference}
+\label{classhardwaremanager_1_1hardwareinfo}\index{hardwaremanager.\+hardwareinfo@{hardwaremanager.\+hardwareinfo}}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classhardwaremanager_1_1hardwareinfo_a663db24b64288e941d0df719b77c0e58}\label{classhardwaremanager_1_1hardwareinfo_a663db24b64288e941d0df719b77c0e58}} 
+void {\bfseries voltage\+\_\+info} ()
+\item 
+void \hyperlink{classhardwaremanager_1_1hardwareinfo_a1752d83d9f8c32ae3f4e3961d3a5f991}{all\+\_\+ram\+\_\+info} ()
+\begin{DoxyCompactList}\small\item\em permet de recuperer les infos sur la mémoire R\+AM \end{DoxyCompactList}\item 
+string \hyperlink{classhardwaremanager_1_1hardwareinfo_af9c922475681b3b40c53ad13f5556ad1}{ram\+\_\+\+Type} ()
+\begin{DoxyCompactList}\small\item\em verifie quel type de R\+AM est present dans la machine \end{DoxyCompactList}\item 
+void \hyperlink{classhardwaremanager_1_1hardwareinfo_ac15b4493df355c3b406f9bfd0c0e2671}{fan\+\_\+stuff} ()
+\begin{DoxyCompactList}\small\item\em check dynamiquement la presence et le statut des ventilateurs \end{DoxyCompactList}\item 
+bool \hyperlink{classhardwaremanager_1_1hardwareinfo_af1347f901af8c5f3dc2cca91fc5505cb}{check\+\_\+for\+\_\+xiring\+\_\+device} ()
+\begin{DoxyCompactList}\small\item\em Verifie si le lecteur carte agent est branché Marche sur ma machine \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{Static Private Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static List$<$ \hyperlink{classhardwaremanager_1_1_u_s_b_device_info}{U\+S\+B\+Device\+Info} $>$ \hyperlink{classhardwaremanager_1_1hardwareinfo_a23bffbb039851e238039b3f18f808efd}{Get\+U\+S\+B\+Devices} ()
+\begin{DoxyCompactList}\small\item\em Liste les peripheriques U\+SB presents sur la machine \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{Private Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classhardwaremanager_1_1hardwareinfo_ac6c235050dae6f4bdc5858cb0eedd844}\label{classhardwaremanager_1_1hardwareinfo_ac6c235050dae6f4bdc5858cb0eedd844}} 
+\hyperlink{classcommonmanager_1_1commonstuff}{commonstuff} {\bfseries common} = new \hyperlink{classcommonmanager_1_1commonstuff}{commonstuff}()
+\end{DoxyCompactItemize}
+
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{classhardwaremanager_1_1hardwareinfo_a1752d83d9f8c32ae3f4e3961d3a5f991}\label{classhardwaremanager_1_1hardwareinfo_a1752d83d9f8c32ae3f4e3961d3a5f991}} 
+\index{hardwaremanager\+::hardwareinfo@{hardwaremanager\+::hardwareinfo}!all\+\_\+ram\+\_\+info@{all\+\_\+ram\+\_\+info}}
+\index{all\+\_\+ram\+\_\+info@{all\+\_\+ram\+\_\+info}!hardwaremanager\+::hardwareinfo@{hardwaremanager\+::hardwareinfo}}
+\subsubsection{\texorpdfstring{all\+\_\+ram\+\_\+info()}{all\_ram\_info()}}
+{\footnotesize\ttfamily void hardwaremanager.\+hardwareinfo.\+all\+\_\+ram\+\_\+info (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+permet de recuperer les infos sur la mémoire R\+AM 
+
+\begin{DoxyReturn}{Returns}
+void
+\end{DoxyReturn}
+\mbox{\Hypertarget{classhardwaremanager_1_1hardwareinfo_af1347f901af8c5f3dc2cca91fc5505cb}\label{classhardwaremanager_1_1hardwareinfo_af1347f901af8c5f3dc2cca91fc5505cb}} 
+\index{hardwaremanager\+::hardwareinfo@{hardwaremanager\+::hardwareinfo}!check\+\_\+for\+\_\+xiring\+\_\+device@{check\+\_\+for\+\_\+xiring\+\_\+device}}
+\index{check\+\_\+for\+\_\+xiring\+\_\+device@{check\+\_\+for\+\_\+xiring\+\_\+device}!hardwaremanager\+::hardwareinfo@{hardwaremanager\+::hardwareinfo}}
+\subsubsection{\texorpdfstring{check\+\_\+for\+\_\+xiring\+\_\+device()}{check\_for\_xiring\_device()}}
+{\footnotesize\ttfamily bool hardwaremanager.\+hardwareinfo.\+check\+\_\+for\+\_\+xiring\+\_\+device (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Verifie si le lecteur carte agent est branché Marche sur ma machine 
+
+\begin{DoxyReturn}{Returns}
+booleen (true or false)
+\end{DoxyReturn}
+\mbox{\Hypertarget{classhardwaremanager_1_1hardwareinfo_ac15b4493df355c3b406f9bfd0c0e2671}\label{classhardwaremanager_1_1hardwareinfo_ac15b4493df355c3b406f9bfd0c0e2671}} 
+\index{hardwaremanager\+::hardwareinfo@{hardwaremanager\+::hardwareinfo}!fan\+\_\+stuff@{fan\+\_\+stuff}}
+\index{fan\+\_\+stuff@{fan\+\_\+stuff}!hardwaremanager\+::hardwareinfo@{hardwaremanager\+::hardwareinfo}}
+\subsubsection{\texorpdfstring{fan\+\_\+stuff()}{fan\_stuff()}}
+{\footnotesize\ttfamily void hardwaremanager.\+hardwareinfo.\+fan\+\_\+stuff (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+check dynamiquement la presence et le statut des ventilateurs 
+
+\begin{DoxyReturn}{Returns}
+void
+\end{DoxyReturn}
+\mbox{\Hypertarget{classhardwaremanager_1_1hardwareinfo_a23bffbb039851e238039b3f18f808efd}\label{classhardwaremanager_1_1hardwareinfo_a23bffbb039851e238039b3f18f808efd}} 
+\index{hardwaremanager\+::hardwareinfo@{hardwaremanager\+::hardwareinfo}!Get\+U\+S\+B\+Devices@{Get\+U\+S\+B\+Devices}}
+\index{Get\+U\+S\+B\+Devices@{Get\+U\+S\+B\+Devices}!hardwaremanager\+::hardwareinfo@{hardwaremanager\+::hardwareinfo}}
+\subsubsection{\texorpdfstring{Get\+U\+S\+B\+Devices()}{GetUSBDevices()}}
+{\footnotesize\ttfamily static List$<$\hyperlink{classhardwaremanager_1_1_u_s_b_device_info}{U\+S\+B\+Device\+Info}$>$ hardwaremanager.\+hardwareinfo.\+Get\+U\+S\+B\+Devices (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}, {\ttfamily [private]}}
+
+
+
+Liste les peripheriques U\+SB presents sur la machine 
+
+\begin{DoxyReturn}{Returns}
+devices
+\end{DoxyReturn}
+\mbox{\Hypertarget{classhardwaremanager_1_1hardwareinfo_af9c922475681b3b40c53ad13f5556ad1}\label{classhardwaremanager_1_1hardwareinfo_af9c922475681b3b40c53ad13f5556ad1}} 
+\index{hardwaremanager\+::hardwareinfo@{hardwaremanager\+::hardwareinfo}!ram\+\_\+\+Type@{ram\+\_\+\+Type}}
+\index{ram\+\_\+\+Type@{ram\+\_\+\+Type}!hardwaremanager\+::hardwareinfo@{hardwaremanager\+::hardwareinfo}}
+\subsubsection{\texorpdfstring{ram\+\_\+\+Type()}{ram\_Type()}}
+{\footnotesize\ttfamily string hardwaremanager.\+hardwareinfo.\+ram\+\_\+\+Type (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+verifie quel type de R\+AM est present dans la machine 
+
+\begin{DoxyReturn}{Returns}
+Le type de R\+AM (str)
+\end{DoxyReturn}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/hautebasma/\+Documents/\+Git\+Hub/manager/manager/hardware.\+cs\end{DoxyCompactItemize}

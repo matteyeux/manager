@@ -1,0 +1,112 @@
+\hypertarget{classdiskmanager_1_1disksinfo}{}\section{diskmanager.\+disksinfo Class Reference}
+\label{classdiskmanager_1_1disksinfo}\index{diskmanager.\+disksinfo@{diskmanager.\+disksinfo}}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+int \hyperlink{classdiskmanager_1_1disksinfo_ab5229bc8b8c66e1bb2de19aba8f6a130}{partition\+\_\+number} ()
+\begin{DoxyCompactList}\small\item\em méthode lister les partitions d\textquotesingle{}un dique \end{DoxyCompactList}\item 
+int \hyperlink{classdiskmanager_1_1disksinfo_ae387fb2ba0e32b521f377aa814f29508}{storage\+\_\+drives} ()
+\begin{DoxyCompactList}\small\item\em Permet de recuperer dynamiquement les disques + les infos de ceux-\/ci \end{DoxyCompactList}\item 
+string \hyperlink{classdiskmanager_1_1disksinfo_a452365cea042bea15219919d72c73d0d}{gethhdtemp} ()
+\begin{DoxyCompactList}\small\item\em Permet de recuperer la temperature du disque principal A lancer en tant qu\textquotesingle{}admin \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{Static Private Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static int \hyperlink{classdiskmanager_1_1disksinfo_a19e7f3c67bd27b94b5ee46157ace2bc8}{check\+\_\+if\+\_\+disk\+\_\+exists} (string currdrive)
+\begin{DoxyCompactList}\small\item\em méthode pour vérifier si un disque existe \end{DoxyCompactList}\item 
+static string \hyperlink{classdiskmanager_1_1disksinfo_a314d1116f663bdd1ba60a9966e2436fa}{Get\+H\+D\+D\+Serial\+Number} (string drive)
+\begin{DoxyCompactList}\small\item\em methode pour recuperer le SN \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{Private Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classdiskmanager_1_1disksinfo_ae9b0f6395bbeb0152094fe6430f82f2c}\label{classdiskmanager_1_1disksinfo_ae9b0f6395bbeb0152094fe6430f82f2c}} 
+\hyperlink{classcommonmanager_1_1commonstuff}{commonstuff} {\bfseries common} = new \hyperlink{classcommonmanager_1_1commonstuff}{commonstuff}()
+\end{DoxyCompactItemize}
+
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{classdiskmanager_1_1disksinfo_a19e7f3c67bd27b94b5ee46157ace2bc8}\label{classdiskmanager_1_1disksinfo_a19e7f3c67bd27b94b5ee46157ace2bc8}} 
+\index{diskmanager\+::disksinfo@{diskmanager\+::disksinfo}!check\+\_\+if\+\_\+disk\+\_\+exists@{check\+\_\+if\+\_\+disk\+\_\+exists}}
+\index{check\+\_\+if\+\_\+disk\+\_\+exists@{check\+\_\+if\+\_\+disk\+\_\+exists}!diskmanager\+::disksinfo@{diskmanager\+::disksinfo}}
+\subsubsection{\texorpdfstring{check\+\_\+if\+\_\+disk\+\_\+exists()}{check\_if\_disk\_exists()}}
+{\footnotesize\ttfamily static int diskmanager.\+disksinfo.\+check\+\_\+if\+\_\+disk\+\_\+exists (\begin{DoxyParamCaption}\item[{string}]{currdrive }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}, {\ttfamily [private]}}
+
+
+
+méthode pour vérifier si un disque existe 
+
+
+\begin{DoxyParams}{Parameters}
+{\em currdrive} & Lettre du dique\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+0 ou -\/1 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classdiskmanager_1_1disksinfo_a314d1116f663bdd1ba60a9966e2436fa}\label{classdiskmanager_1_1disksinfo_a314d1116f663bdd1ba60a9966e2436fa}} 
+\index{diskmanager\+::disksinfo@{diskmanager\+::disksinfo}!Get\+H\+D\+D\+Serial\+Number@{Get\+H\+D\+D\+Serial\+Number}}
+\index{Get\+H\+D\+D\+Serial\+Number@{Get\+H\+D\+D\+Serial\+Number}!diskmanager\+::disksinfo@{diskmanager\+::disksinfo}}
+\subsubsection{\texorpdfstring{Get\+H\+D\+D\+Serial\+Number()}{GetHDDSerialNumber()}}
+{\footnotesize\ttfamily static string diskmanager.\+disksinfo.\+Get\+H\+D\+D\+Serial\+Number (\begin{DoxyParamCaption}\item[{string}]{drive }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}, {\ttfamily [private]}}
+
+
+
+methode pour recuperer le SN 
+
+
+\begin{DoxyParams}{Parameters}
+{\em drive} & Lettre du disque dont on veut récuperer le SN\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Le SN du disque
+\end{DoxyReturn}
+\mbox{\Hypertarget{classdiskmanager_1_1disksinfo_a452365cea042bea15219919d72c73d0d}\label{classdiskmanager_1_1disksinfo_a452365cea042bea15219919d72c73d0d}} 
+\index{diskmanager\+::disksinfo@{diskmanager\+::disksinfo}!gethhdtemp@{gethhdtemp}}
+\index{gethhdtemp@{gethhdtemp}!diskmanager\+::disksinfo@{diskmanager\+::disksinfo}}
+\subsubsection{\texorpdfstring{gethhdtemp()}{gethhdtemp()}}
+{\footnotesize\ttfamily string diskmanager.\+disksinfo.\+gethhdtemp (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Permet de recuperer la temperature du disque principal A lancer en tant qu\textquotesingle{}admin 
+
+\begin{DoxyReturn}{Returns}
+temp
+\end{DoxyReturn}
+\mbox{\Hypertarget{classdiskmanager_1_1disksinfo_ab5229bc8b8c66e1bb2de19aba8f6a130}\label{classdiskmanager_1_1disksinfo_ab5229bc8b8c66e1bb2de19aba8f6a130}} 
+\index{diskmanager\+::disksinfo@{diskmanager\+::disksinfo}!partition\+\_\+number@{partition\+\_\+number}}
+\index{partition\+\_\+number@{partition\+\_\+number}!diskmanager\+::disksinfo@{diskmanager\+::disksinfo}}
+\subsubsection{\texorpdfstring{partition\+\_\+number()}{partition\_number()}}
+{\footnotesize\ttfamily int diskmanager.\+disksinfo.\+partition\+\_\+number (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+méthode lister les partitions d\textquotesingle{}un dique 
+
+
+\begin{DoxyParams}{Parameters}
+{\em currdrive} & Lettre du dique\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+0 ou -\/1
+\end{DoxyReturn}
+\mbox{\Hypertarget{classdiskmanager_1_1disksinfo_ae387fb2ba0e32b521f377aa814f29508}\label{classdiskmanager_1_1disksinfo_ae387fb2ba0e32b521f377aa814f29508}} 
+\index{diskmanager\+::disksinfo@{diskmanager\+::disksinfo}!storage\+\_\+drives@{storage\+\_\+drives}}
+\index{storage\+\_\+drives@{storage\+\_\+drives}!diskmanager\+::disksinfo@{diskmanager\+::disksinfo}}
+\subsubsection{\texorpdfstring{storage\+\_\+drives()}{storage\_drives()}}
+{\footnotesize\ttfamily int diskmanager.\+disksinfo.\+storage\+\_\+drives (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Permet de recuperer dynamiquement les disques + les infos de ceux-\/ci 
+
+\begin{DoxyReturn}{Returns}
+0
+\end{DoxyReturn}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/hautebasma/\+Documents/\+Git\+Hub/manager/manager/disks.\+cs\end{DoxyCompactItemize}

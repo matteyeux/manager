@@ -1,0 +1,92 @@
+\hypertarget{classcommonmanager_1_1commonstuff}{}\section{commonmanager.\+commonstuff Class Reference}
+\label{classcommonmanager_1_1commonstuff}\index{commonmanager.\+commonstuff@{commonmanager.\+commonstuff}}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+int \hyperlink{classcommonmanager_1_1commonstuff_ac541bede1f461660549373323c84b44f}{check4file} (string datfile)
+\begin{DoxyCompactList}\small\item\em verifie si un fichier existe \end{DoxyCompactList}\item 
+bool \hyperlink{classcommonmanager_1_1commonstuff_ace86895848e42a2bea815db15d32837a}{Is\+Administrator} ()
+\begin{DoxyCompactList}\small\item\em verifie si le programme se lance en tant qu\textquotesingle{}admin utile pour les infos C\+PU \end{DoxyCompactList}\item 
+double \hyperlink{classcommonmanager_1_1commonstuff_ac3d462747c67f057c8b58c5fd278fae0}{convert2percent} (double max\+\_\+size, double curr\+\_\+size)
+\begin{DoxyCompactList}\small\item\em pour convertir en pourcentage des valeurs pour les espaces des dd \end{DoxyCompactList}\item 
+double \hyperlink{classcommonmanager_1_1commonstuff_a0145bf799146572b168bd53ec1b92643}{convertb2gb} (double total, double val)
+\begin{DoxyCompactList}\small\item\em fonction pour convertir les bytes en gigabytes (=octets) \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{classcommonmanager_1_1commonstuff_ac541bede1f461660549373323c84b44f}\label{classcommonmanager_1_1commonstuff_ac541bede1f461660549373323c84b44f}} 
+\index{commonmanager\+::commonstuff@{commonmanager\+::commonstuff}!check4file@{check4file}}
+\index{check4file@{check4file}!commonmanager\+::commonstuff@{commonmanager\+::commonstuff}}
+\subsubsection{\texorpdfstring{check4file()}{check4file()}}
+{\footnotesize\ttfamily int commonmanager.\+commonstuff.\+check4file (\begin{DoxyParamCaption}\item[{string}]{datfile }\end{DoxyParamCaption})}
+
+
+
+verifie si un fichier existe 
+
+
+\begin{DoxyParams}{Parameters}
+{\em datfile} & chemin vers le fichier\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+0 ou -\/1
+\end{DoxyReturn}
+\mbox{\Hypertarget{classcommonmanager_1_1commonstuff_ac3d462747c67f057c8b58c5fd278fae0}\label{classcommonmanager_1_1commonstuff_ac3d462747c67f057c8b58c5fd278fae0}} 
+\index{commonmanager\+::commonstuff@{commonmanager\+::commonstuff}!convert2percent@{convert2percent}}
+\index{convert2percent@{convert2percent}!commonmanager\+::commonstuff@{commonmanager\+::commonstuff}}
+\subsubsection{\texorpdfstring{convert2percent()}{convert2percent()}}
+{\footnotesize\ttfamily double commonmanager.\+commonstuff.\+convert2percent (\begin{DoxyParamCaption}\item[{double}]{max\+\_\+size,  }\item[{double}]{curr\+\_\+size }\end{DoxyParamCaption})}
+
+
+
+pour convertir en pourcentage des valeurs pour les espaces des dd 
+
+
+\begin{DoxyParams}{Parameters}
+{\em max\+\_\+size} & taille max du disque\\
+\hline
+{\em curr\+\_\+size} & espace occupé\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+0 ou -\/1
+\end{DoxyReturn}
+\mbox{\Hypertarget{classcommonmanager_1_1commonstuff_a0145bf799146572b168bd53ec1b92643}\label{classcommonmanager_1_1commonstuff_a0145bf799146572b168bd53ec1b92643}} 
+\index{commonmanager\+::commonstuff@{commonmanager\+::commonstuff}!convertb2gb@{convertb2gb}}
+\index{convertb2gb@{convertb2gb}!commonmanager\+::commonstuff@{commonmanager\+::commonstuff}}
+\subsubsection{\texorpdfstring{convertb2gb()}{convertb2gb()}}
+{\footnotesize\ttfamily double commonmanager.\+commonstuff.\+convertb2gb (\begin{DoxyParamCaption}\item[{double}]{total,  }\item[{double}]{val }\end{DoxyParamCaption})}
+
+
+
+fonction pour convertir les bytes en gigabytes (=octets) 
+
+
+\begin{DoxyParams}{Parameters}
+{\em total} & taille totale de l\textquotesingle{}entier (=0) si y\textquotesingle{}en pas\\
+\hline
+{\em val} & la valeur que vous souhaitez convertir\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+total ou newval
+\end{DoxyReturn}
+\mbox{\Hypertarget{classcommonmanager_1_1commonstuff_ace86895848e42a2bea815db15d32837a}\label{classcommonmanager_1_1commonstuff_ace86895848e42a2bea815db15d32837a}} 
+\index{commonmanager\+::commonstuff@{commonmanager\+::commonstuff}!Is\+Administrator@{Is\+Administrator}}
+\index{Is\+Administrator@{Is\+Administrator}!commonmanager\+::commonstuff@{commonmanager\+::commonstuff}}
+\subsubsection{\texorpdfstring{Is\+Administrator()}{IsAdministrator()}}
+{\footnotesize\ttfamily bool commonmanager.\+commonstuff.\+Is\+Administrator (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+verifie si le programme se lance en tant qu\textquotesingle{}admin utile pour les infos C\+PU 
+
+\begin{DoxyReturn}{Returns}
+(new Windows\+Principal(Windows\+Identity.\+Get\+Current())).Is\+In\+Role(Windows\+Built\+In\+Role.\+Administrator)
+\end{DoxyReturn}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/hautebasma/\+Documents/\+Git\+Hub/manager/manager/common.\+cs\end{DoxyCompactItemize}
