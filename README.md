@@ -42,6 +42,12 @@ Le client installé sur les machines va régulièrement récuperer différentes 
 
 Le serveur reçoit les informations pour les rediriger dans un fichier XML qui envoyer celles-ci vers une base de donnée
 
+## Documentation
+
+La Documentation a été générée avec [Doxygen](http://www.stack.nl/~dimitri/doxygen/). 
+Si vous souhaitez ajouter des options lors de la génération de la documentation vous avez deux options :
+- Utiliser l'interface graphique qui generera un fichier de configuration automatiquement.
+- Via CLI en modifiant le `Doxyfile` manuellement et en le generant comme ceci : `doxygen <path_to_Doxyfile>`
 
 ## Contribution
 
