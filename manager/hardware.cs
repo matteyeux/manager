@@ -58,7 +58,7 @@ namespace hardwaremanager
             }   
             catch (ManagementException e)
             {
-                Console.WriteLine("An error occurred while querying for WMI data: " + e.Message);
+                Console.WriteLine("An error occurred while querying for WMI data: {0} ", e.Message);
             }
         }
 
@@ -111,7 +111,7 @@ namespace hardwaremanager
             }
             catch (ManagementException e)
             {
-                Console.WriteLine("An error occurred while querying for WMI data: " + e.Message);
+                Console.WriteLine("An error occurred while querying for WMI data: {0}", e.Message);
             }
         }
 

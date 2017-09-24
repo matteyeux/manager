@@ -25,8 +25,7 @@ namespace cpumanager
             new ManagementObjectSearcher("Select Name from Win32_Processor");
             foreach (ManagementObject proc in searcher.Get())
             {
-                Console.WriteLine("CPU : {0}\n",
-                              proc.GetPropertyValue("Name"));
+                Console.WriteLine("CPU : {0}\n", proc.GetPropertyValue("Name"));
             }        
         }
         /// <summary>

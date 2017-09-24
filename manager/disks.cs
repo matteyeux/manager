@@ -54,7 +54,7 @@ namespace diskmanager
             }
             catch (ManagementException e)
             {
-                Console.WriteLine("An error occurred while querying for WMI data: " + e.Message);
+                Console.WriteLine("An error occurred while querying for WMI data: {0}", e.Message);
                 return -1;
             }
             return 0;
