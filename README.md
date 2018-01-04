@@ -54,7 +54,7 @@ J'ai ajouté un batch file pour executer automatiquement cette commande, le fich
 
 ## Contribution
 
-- Cloner le repository ainsi que le git submodule server : `git clone https://github.com/matteeyeux/manager`
+- Cloner le repository ainsi que le git submodule server : `git clone https://github.com/matteyeux/manager`
 - Initialiser et cloner les sous modules: `git submodule init && git submodule update`
 
 Si lorsque vous clonez ou que souhaitez contribuer au projet mais que vous avez cette erreur : <br>
