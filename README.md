@@ -62,9 +62,3 @@ Si lorsque vous clonez ou que souhaitez contribuer au projet mais que vous avez 
 Il faut configurer `git` pour qu'il passe par votre proxy : <br>
 `git config --global http.proxy https://user:passwd@proxy:port`
 
-Le code est aussi disponible sur le Gitlab du ministère de l'interieur : https://forge.dsic.minint.fr/gitlab/mathieu.hautebas.
-Je l'ai rendu public pour qu'il soit accessible à tous.
-
-Pour acceder au de la DSIC il faudra faire une demande à cette adresse mail suivante : forge-dsic@interieur.gouv.fr
-
-
